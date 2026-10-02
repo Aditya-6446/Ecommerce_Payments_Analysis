@@ -1,0 +1,15 @@
+{
+  "source_sha256": "8a36f7fc21fb058b83c600fa671c6d882a327073923d77d30cb76e4b48406649",
+  "source_rows": 100,
+  "source_columns": 14,
+  "markets": 100,
+  "services": 191,
+  "listings": 300,
+  "duplicate_market_service_listings": 1,
+  "name_changes": 9,
+  "url_changes": 302,
+  "shares_needing_evidence": 100,
+  "top_service": "PayPal",
+  "top_service_markets": 47,
+  "source": "https://github.com/Aditya-6446/Ecommerce_Payments_Analysis/blob/main/Test.csv"
+}

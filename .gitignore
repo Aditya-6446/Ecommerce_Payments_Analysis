@@ -1,0 +1,10 @@
+.venv/
+node_modules/
+work/
+__pycache__/
+.pytest_cache/
+*.pyc
+**/.pbi/
+*.pbix
+!outputs/payments-analysis/Digital-Payments-Explorer.pbix
+*.inspect.ndjson

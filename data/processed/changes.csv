@@ -1,0 +1,312 @@
+market_id,country,field,original,cleaned,reason
+M001,United States,App Website Link,apple.com/apple-pay,https://apple.com/apple-pay,Add missing https scheme / normalize URL syntax
+M001,United States,Alternate1 Website,pay.google.com,https://pay.google.com,Add missing https scheme / normalize URL syntax
+M001,United States,Alternate2 Website,paypal.com,https://paypal.com,Add missing https scheme / normalize URL syntax
+M002,China,App Website Link,alipay.com,https://alipay.com,Add missing https scheme / normalize URL syntax
+M002,China,Alternate1 Website,weixin.qq.com,https://weixin.qq.com,Add missing https scheme / normalize URL syntax
+M002,China,Alternate2 Website,unionpayintl.com,https://unionpayintl.com,Add missing https scheme / normalize URL syntax
+M003,Germany,App Website Link,paypal.com,https://paypal.com,Add missing https scheme / normalize URL syntax
+M003,Germany,Alternate1 Website,klarna.com,https://klarna.com,Add missing https scheme / normalize URL syntax
+M003,Germany,Alternate2 Website,sofort.com,https://sofort.com,Add missing https scheme / normalize URL syntax
+M004,Japan,App Website Link,paypay.ne.jp,https://paypay.ne.jp,Add missing https scheme / normalize URL syntax
+M004,Japan,Alternate1 Website,pay.line.me,https://pay.line.me,Add missing https scheme / normalize URL syntax
+M004,Japan,Alternate2 Website,rakuten.com,https://rakuten.com,Add missing https scheme / normalize URL syntax
+M005,India,App Website Link,phonepe.com,https://phonepe.com,Add missing https scheme / normalize URL syntax
+M005,India,Alternate1 Website,pay.google.com,https://pay.google.com,Add missing https scheme / normalize URL syntax
+M005,India,Alternate2 Website,paytm.com,https://paytm.com,Add missing https scheme / normalize URL syntax
+M006,United Kingdom,App Website Link,paypal.com,https://paypal.com,Add missing https scheme / normalize URL syntax
+M006,United Kingdom,Alternate1 Website,apple.com/apple-pay,https://apple.com/apple-pay,Add missing https scheme / normalize URL syntax
+M006,United Kingdom,Alternate2 Website,revolut.com,https://revolut.com,Add missing https scheme / normalize URL syntax
+M007,France,App Website Link,paylib.fr,https://paylib.fr,Add missing https scheme / normalize URL syntax
+M007,France,Alternate1 Website,lydia-app.com,https://lydia-app.com,Add missing https scheme / normalize URL syntax
+M007,France,Alternate2 Website,pay.google.com,https://pay.google.com,Add missing https scheme / normalize URL syntax
+M008,Italy,App Website Link,satispay.com,https://satispay.com,Add missing https scheme / normalize URL syntax
+M008,Italy,Alternate1 Website,nexi.it,https://nexi.it,Add missing https scheme / normalize URL syntax
+M008,Italy,Alternate2 Website,paypal.com,https://paypal.com,Add missing https scheme / normalize URL syntax
+M009,Canada,App Website Link,interac.ca,https://interac.ca,Add missing https scheme / normalize URL syntax
+M009,Canada,Alternate1 Website,apple.com/apple-pay,https://apple.com/apple-pay,Add missing https scheme / normalize URL syntax
+M009,Canada,Alternate2 Website,pay.google.com,https://pay.google.com,Add missing https scheme / normalize URL syntax
+M010,Brazil,App Website Link,mercadopago.com.br,https://mercadopago.com.br,Add missing https scheme / normalize URL syntax
+M010,Brazil,Alternate1 Website,mercadopago.com,https://mercadopago.com,Add missing https scheme / normalize URL syntax
+M010,Brazil,Alternate2 Website,paypal.com,https://paypal.com,Add missing https scheme / normalize URL syntax
+M011,Russia,App Website Link,yoomoney.ru,https://yoomoney.ru,Add missing https scheme / normalize URL syntax
+M011,Russia,Alternate1 Website,qiwi.com,https://qiwi.com,Add missing https scheme / normalize URL syntax
+M011,Russia,Alternate2 Website,webmoney.ru,https://webmoney.ru,Add missing https scheme / normalize URL syntax
+M012,South Korea,App Website Link,kakaopay.com,https://kakaopay.com,Add missing https scheme / normalize URL syntax
+M012,South Korea,Alternate1 Website,samsung.com/samsung-pay,https://samsung.com/samsung-pay,Add missing https scheme / normalize URL syntax
+M012,South Korea,Alternate2 Website,naver.com,https://naver.com,Add missing https scheme / normalize URL syntax
+M013,Australia,App Website Link,afterpay.com,https://afterpay.com,Add missing https scheme / normalize URL syntax
+M013,Australia,Alternate1 Website,zip.co,https://zip.co,Add missing https scheme / normalize URL syntax
+M013,Australia,Alternate2 Website,paypal.com,https://paypal.com,Add missing https scheme / normalize URL syntax
+M014,Spain,App Website Link,bizum.es,https://bizum.es,Add missing https scheme / normalize URL syntax
+M014,Spain,Alternate1 Website,paypal.com,https://paypal.com,Add missing https scheme / normalize URL syntax
+M014,Spain,Alternate2 Website,apple.com/apple-pay/,https://apple.com/apple-pay/,Add missing https scheme / normalize URL syntax
+M015,Mexico,App Website Link,samsung.com/samsung-pay,https://samsung.com/samsung-pay,Add missing https scheme / normalize URL syntax
+M015,Mexico,Alternate1 Website,mercadopago.com,https://mercadopago.com,Add missing https scheme / normalize URL syntax
+M015,Mexico,Alternate2 Website,paypal.com,https://paypal.com,Add missing https scheme / normalize URL syntax
+M016,Indonesia,App Website Link,ovo.id,https://ovo.id,Add missing https scheme / normalize URL syntax
+M016,Indonesia,Alternate1 Website,gopay.co.id,https://gopay.co.id,Add missing https scheme / normalize URL syntax
+M016,Indonesia,Alternate2 Website,dana.id,https://dana.id,Add missing https scheme / normalize URL syntax
+M017,Turkey,App Website Link,bkm.com.tr,https://bkm.com.tr,Add missing https scheme / normalize URL syntax
+M017,Turkey,Alternate1 Website,paypal.com,https://paypal.com,Add missing https scheme / normalize URL syntax
+M017,Turkey,Alternate2 Website,ininal.com,https://ininal.com,Add missing https scheme / normalize URL syntax
+M018,Netherlands,App Website Link,ideal.nl,https://ideal.nl,Add missing https scheme / normalize URL syntax
+M018,Netherlands,Alternate1 Website,paypal.com,https://paypal.com,Add missing https scheme / normalize URL syntax
+M018,Netherlands,Alternate2 Website,ecb.europa.eu,https://ecb.europa.eu,Add missing https scheme / normalize URL syntax
+M019,Saudi Arabia,App Website Link,stcpay.com.sa,https://stcpay.com.sa,Add missing https scheme / normalize URL syntax
+M019,Saudi Arabia,Alternate1 Website,apple.com/apple-pay,https://apple.com/apple-pay,Add missing https scheme / normalize URL syntax
+M019,Saudi Arabia,Alternate2 Website,paypal.com,https://paypal.com,Add missing https scheme / normalize URL syntax
+M020,Switzerland,App Website Link,twint.ch,https://twint.ch,Add missing https scheme / normalize URL syntax
+M020,Switzerland,Alternate1 Website,paypal.com,https://paypal.com,Add missing https scheme / normalize URL syntax
+M020,Switzerland,Alternate2 Website,apple.com/apple-pay/,https://apple.com/apple-pay/,Add missing https scheme / normalize URL syntax
+M021,Poland,App Website Link,blik.com,https://blik.com,Add missing https scheme / normalize URL syntax
+M021,Poland,Alternate1 Website,revolut.com,https://revolut.com,Add missing https scheme / normalize URL syntax
+M021,Poland,Alternate2 Website,payu.com,https://payu.com,Add missing https scheme / normalize URL syntax
+M022,Taiwan,App Name,Line Pay,LINE Pay,Trim whitespace / documented spelling or capitalization alias
+M022,Taiwan,App Website Link,linepay.com,https://linepay.com,Add missing https scheme / normalize URL syntax
+M022,Taiwan,Alternate1 Website,jkopay.com,https://jkopay.com,Add missing https scheme / normalize URL syntax
+M022,Taiwan,Alternate2 Website,apple.com/apple-pay/,https://apple.com/apple-pay/,Add missing https scheme / normalize URL syntax
+M023,Belgium,App Website Link,bancontact.com,https://bancontact.com,Add missing https scheme / normalize URL syntax
+M023,Belgium,Alternate1 Website,payconiq.com,https://payconiq.com,Add missing https scheme / normalize URL syntax
+M023,Belgium,Alternate2 Website,paypal.com,https://paypal.com,Add missing https scheme / normalize URL syntax
+M024,Sweden,App Website Link,swish.nu,https://swish.nu,Add missing https scheme / normalize URL syntax
+M024,Sweden,Alternate1 Website,klarna.com,https://klarna.com,Add missing https scheme / normalize URL syntax
+M024,Sweden,Alternate2 Website,paypal.com,https://paypal.com,Add missing https scheme / normalize URL syntax
+M025,Argentina,App Website Link,mercadopago.com,https://mercadopago.com,Add missing https scheme / normalize URL syntax
+M025,Argentina,Alternate1 Website,naranjax.com,https://naranjax.com,Add missing https scheme / normalize URL syntax
+M025,Argentina,Alternate2 Website,uala.com,https://uala.com,Add missing https scheme / normalize URL syntax
+M026,Ireland,App Website Link,revolut.com,https://revolut.com,Add missing https scheme / normalize URL syntax
+M026,Ireland,Alternate1 Website,paypal.com,https://paypal.com,Add missing https scheme / normalize URL syntax
+M026,Ireland,Alternate2 Website,n26.com,https://n26.com,Add missing https scheme / normalize URL syntax
+M027,United Arab Emirates,App Website Link,apple.com/apple-pay,https://apple.com/apple-pay,Add missing https scheme / normalize URL syntax
+M027,United Arab Emirates,Alternate1 Website,samsung.com/samsung-pay,https://samsung.com/samsung-pay,Add missing https scheme / normalize URL syntax
+M027,United Arab Emirates,Alternate2 Website,noon.com,https://noon.com,Add missing https scheme / normalize URL syntax
+M028,Singapore,App Website Link,grab.com,https://grab.com,Add missing https scheme / normalize URL syntax
+M028,Singapore,Alternate1 Website,abs.org.sg/consumer-banking/pay-now,https://abs.org.sg/consumer-banking/pay-now,Add missing https scheme / normalize URL syntax
+M028,Singapore,Alternate2 Website,dbs.com.sg,https://dbs.com.sg,Add missing https scheme / normalize URL syntax
+M029,Austria,App Name,Mobile Pay,MobilePay,Trim whitespace / documented spelling or capitalization alias
+M029,Austria,App Website Link,mobilepay.dk,https://mobilepay.dk,Add missing https scheme / normalize URL syntax
+M029,Austria,Alternate1 Website,paypal.com,https://paypal.com,Add missing https scheme / normalize URL syntax
+M029,Austria,Alternate2 Website,klarna.com,https://klarna.com,Add missing https scheme / normalize URL syntax
+M030,Israel,App Website Link,payoneer.com,https://payoneer.com,Add missing https scheme / normalize URL syntax
+M030,Israel,Alternate1 Website,bitpay.com,https://bitpay.com,Add missing https scheme / normalize URL syntax
+M030,Israel,Alternate2 Website,isracard.co.il,https://isracard.co.il,Add missing https scheme / normalize URL syntax
+M031,Thailand,App Website Link,rabbit.co.th,https://rabbit.co.th,Add missing https scheme / normalize URL syntax
+M031,Thailand,Alternate1 Website,truemoney.com,https://truemoney.com,Add missing https scheme / normalize URL syntax
+M031,Thailand,Alternate2 Website,alipay.com,https://alipay.com,Add missing https scheme / normalize URL syntax
+M032,Philippines,App Website Link,gcash.com,https://gcash.com,Add missing https scheme / normalize URL syntax
+M032,Philippines,Alternate1 Website,paymaya.com,https://paymaya.com,Add missing https scheme / normalize URL syntax
+M032,Philippines,Alternate2 Website,grab.com,https://grab.com,Add missing https scheme / normalize URL syntax
+M033,Vietnam,App Website Link,momo.vn,https://momo.vn,Add missing https scheme / normalize URL syntax
+M033,Vietnam,Alternate1 Website,zalopay.vn,https://zalopay.vn,Add missing https scheme / normalize URL syntax
+M033,Vietnam,Alternate2 Website,viettelpay.vn,https://viettelpay.vn,Add missing https scheme / normalize URL syntax
+M034,Norway,App Website Link,vipps.no,https://vipps.no,Add missing https scheme / normalize URL syntax
+M034,Norway,Alternate1 Website,paypal.com,https://paypal.com,Add missing https scheme / normalize URL syntax
+M034,Norway,Alternate2 Website,apple.com/apple-pay/,https://apple.com/apple-pay/,Add missing https scheme / normalize URL syntax
+M035,Malaysia,App Website Link,touchngo.com.my,https://touchngo.com.my,Add missing https scheme / normalize URL syntax
+M035,Malaysia,Alternate1 Website,cimb.com.my,https://cimb.com.my,Add missing https scheme / normalize URL syntax
+M035,Malaysia,Alternate2 Website,myboost.co/,https://myboost.co/,Add missing https scheme / normalize URL syntax
+M036,Iran,App Website Link,shetab.com,https://shetab.com,Add missing https scheme / normalize URL syntax
+M036,Iran,Alternate1 Website,zarinpal.com,https://zarinpal.com,Add missing https scheme / normalize URL syntax
+M036,Iran,Alternate2 Website,pay.ir,https://pay.ir,Add missing https scheme / normalize URL syntax
+M037,Bangladesh,App Website Link,bkash.com,https://bkash.com,Add missing https scheme / normalize URL syntax
+M037,Bangladesh,Alternate1 Website,nagad.com.bd,https://nagad.com.bd,Add missing https scheme / normalize URL syntax
+M037,Bangladesh,Alternate2 Website,dutchbanglabank.com,https://dutchbanglabank.com,Add missing https scheme / normalize URL syntax
+M038,Denmark,App Website Link,mobilepay.dk,https://mobilepay.dk,Add missing https scheme / normalize URL syntax
+M038,Denmark,Alternate1 Website,apple.com/apple-pay,https://apple.com/apple-pay,Add missing https scheme / normalize URL syntax
+M038,Denmark,Alternate2 Name,Goggle Pay,Google Pay,Trim whitespace / documented spelling or capitalization alias
+M038,Denmark,Alternate2 Website,pay.google.com,https://pay.google.com,Add missing https scheme / normalize URL syntax
+M039,Hong Kong,App Website Link,alipay.com,https://alipay.com,Add missing https scheme / normalize URL syntax
+M039,Hong Kong,Alternate1 Website,weixin.qq.com,https://weixin.qq.com,Add missing https scheme / normalize URL syntax
+M039,Hong Kong,Alternate2 Website,octopus.com.hk,https://octopus.com.hk,Add missing https scheme / normalize URL syntax
+M040,Colombia,App Website Link,nequi.com.co,https://nequi.com.co,Add missing https scheme / normalize URL syntax
+M040,Colombia,Alternate1 Website,daviplata.com,https://daviplata.com,Add missing https scheme / normalize URL syntax
+M040,Colombia,Alternate2 Website,bancolombia.com,https://bancolombia.com,Add missing https scheme / normalize URL syntax
+M041,South Africa,App Website Link,snapscan.co.za,https://snapscan.co.za,Add missing https scheme / normalize URL syntax
+M041,South Africa,Alternate1 Website,zapper.com,https://zapper.com,Add missing https scheme / normalize URL syntax
+M041,South Africa,Alternate2 Website,paypal.com,https://paypal.com,Add missing https scheme / normalize URL syntax
+M042,Romania,App Website Link,mobilepay.dk,https://mobilepay.dk,Add missing https scheme / normalize URL syntax
+M042,Romania,Alternate1 Website,payu.com,https://payu.com,Add missing https scheme / normalize URL syntax
+M042,Romania,Alternate2 Website,revolut.com,https://revolut.com,Add missing https scheme / normalize URL syntax
+M043,Egypt,App Website Link,fawry.com,https://fawry.com,Add missing https scheme / normalize URL syntax
+M043,Egypt,Alternate1 Website,fawry.com,https://fawry.com,Add missing https scheme / normalize URL syntax
+M043,Egypt,Alternate2 Website,aman.eg,https://aman.eg,Add missing https scheme / normalize URL syntax
+M044,Pakistan,App Website Link,jazzcash.com.pk,https://jazzcash.com.pk,Add missing https scheme / normalize URL syntax
+M044,Pakistan,Alternate1 Website,easypaisa.com.pk,https://easypaisa.com.pk,Add missing https scheme / normalize URL syntax
+M044,Pakistan,Alternate2 Website,paypal.com,https://paypal.com,Add missing https scheme / normalize URL syntax
+M045,Chile,App Website Link,webpay.cl,https://webpay.cl,Add missing https scheme / normalize URL syntax
+M045,Chile,Alternate1 Website,transbank.cl,https://transbank.cl,Add missing https scheme / normalize URL syntax
+M045,Chile,Alternate2 Website,khipu.com,https://khipu.com,Add missing https scheme / normalize URL syntax
+M046,Czech Republic,App Website Link,gopay.co.id,https://gopay.co.id,Add missing https scheme / normalize URL syntax
+M046,Czech Republic,Alternate1 Website,paypal.com,https://paypal.com,Add missing https scheme / normalize URL syntax
+M046,Czech Republic,Alternate2 Website,apple.com/apple-pay/,https://apple.com/apple-pay/,Add missing https scheme / normalize URL syntax
+M047,Finland,App Website Link,mobilepay.dk,https://mobilepay.dk,Add missing https scheme / normalize URL syntax
+M047,Finland,Alternate1 Website,siirto.fi,https://siirto.fi,Add missing https scheme / normalize URL syntax
+M047,Finland,Alternate2 Website,paypal.com,https://paypal.com,Add missing https scheme / normalize URL syntax
+M048,Portugal,App Website Link,mbway.pt,https://mbway.pt,Add missing https scheme / normalize URL syntax
+M048,Portugal,Alternate1 Website,paypal.com,https://paypal.com,Add missing https scheme / normalize URL syntax
+M048,Portugal,Alternate2 Website,revolut.com,https://revolut.com,Add missing https scheme / normalize URL syntax
+M049,Hungary,App Website Link,simplepay.com,https://simplepay.com,Add missing https scheme / normalize URL syntax
+M049,Hungary,Alternate1 Website,barion.com,https://barion.com,Add missing https scheme / normalize URL syntax
+M049,Hungary,Alternate2 Website,paypal.com,https://paypal.com,Add missing https scheme / normalize URL syntax
+M050,Kazakhstan,App Website Link,kaspi.kz,https://kaspi.kz,Add missing https scheme / normalize URL syntax
+M050,Kazakhstan,Alternate1 Website,halykbank.kz,https://halykbank.kz,Add missing https scheme / normalize URL syntax
+M050,Kazakhstan,Alternate2 Website,paybox.ru,https://paybox.ru,Add missing https scheme / normalize URL syntax
+M051,Peru,App Website Link,yape.com.pe,https://yape.com.pe,Add missing https scheme / normalize URL syntax
+M051,Peru,Alternate1 Website,www.pichincha.com/banca-movil,https://www.pichincha.com/banca-movil,Add missing https scheme / normalize URL syntax
+M051,Peru,Alternate2 Website,niubiz.com.pe,https://niubiz.com.pe,Add missing https scheme / normalize URL syntax
+M052,Iraq,App Website Link,zaincash.iq,https://zaincash.iq,Add missing https scheme / normalize URL syntax
+M052,Iraq,Alternate1 Website,qi.iq/en/digital-zone,https://qi.iq/en/digital-zone,Add missing https scheme / normalize URL syntax
+M052,Iraq,Alternate2 Website,fast-pay.iq,https://fast-pay.iq,Add missing https scheme / normalize URL syntax
+M053,Greece,App Website Link,vivawallet.com,https://vivawallet.com,Add missing https scheme / normalize URL syntax
+M053,Greece,Alternate1 Name,Paypal,PayPal,Trim whitespace / documented spelling or capitalization alias
+M053,Greece,Alternate1 Website,paypal.com,https://paypal.com,Add missing https scheme / normalize URL syntax
+M053,Greece,Alternate2 Website,revolut.com,https://revolut.com,Add missing https scheme / normalize URL syntax
+M054,Algeria,App Website Link,albaridbank.ma/fr/nos-solutions/barid-bank-mobile,https://albaridbank.ma/fr/nos-solutions/barid-bank-mobile,Add missing https scheme / normalize URL syntax
+M054,Algeria,Alternate1 Website,cibeg.com,https://cibeg.com,Add missing https scheme / normalize URL syntax
+M054,Algeria,Alternate2 Website,cashaddress.org,https://cashaddress.org,Add missing https scheme / normalize URL syntax
+M055,New Zealand,App Website Link,apple.com/apple-pay,https://apple.com/apple-pay,Add missing https scheme / normalize URL syntax
+M055,New Zealand,Alternate1 Website,afterpay.com,https://afterpay.com,Add missing https scheme / normalize URL syntax
+M055,New Zealand,Alternate2 Website,paypal.com,https://paypal.com,Add missing https scheme / normalize URL syntax
+M056,Qatar,App Website Link,ooredoo.qa/web/en/ooredoo-money/,https://ooredoo.qa/web/en/ooredoo-money/,Add missing https scheme / normalize URL syntax
+M056,Qatar,Alternate1 Website,binance.com,https://binance.com,Add missing https scheme / normalize URL syntax
+M056,Qatar,Alternate2 Website,cbq.qa,https://cbq.qa,Add missing https scheme / normalize URL syntax
+M057,Ethiopia,App Website Link,m-birr.com,https://m-birr.com,Add missing https scheme / normalize URL syntax
+M057,Ethiopia,Alternate1 Website,payoneer.com,https://payoneer.com,Add missing https scheme / normalize URL syntax
+M057,Ethiopia,Alternate2 Website,dashenbanksc.com/amole-payment-services/,https://dashenbanksc.com/amole-payment-services/,Add missing https scheme / normalize URL syntax
+M058,Nigeria,App Website Link,paystack.com,https://paystack.com,Add missing https scheme / normalize URL syntax
+M058,Nigeria,Alternate1 Website,flutterwave.com,https://flutterwave.com,Add missing https scheme / normalize URL syntax
+M058,Nigeria,Alternate2 Website,moniepoint.com,https://moniepoint.com,Add missing https scheme / normalize URL syntax
+M059,Ukraine,App Website Link,privatbank.ua,https://privatbank.ua,Add missing https scheme / normalize URL syntax
+M059,Ukraine,Alternate1 Website,monobank.ua,https://monobank.ua,Add missing https scheme / normalize URL syntax
+M059,Ukraine,Alternate2 Website,pumb.ua,https://pumb.ua,Add missing https scheme / normalize URL syntax
+M060,Morocco,App Website Link,wafacash.com,https://wafacash.com,Add missing https scheme / normalize URL syntax
+M060,Morocco,Alternate1 Website,cihbank.ma,https://cihbank.ma,Add missing https scheme / normalize URL syntax
+M060,Morocco,Alternate2 Website,cashplus.ma,https://cashplus.ma,Add missing https scheme / normalize URL syntax
+M061,Kuwait,App Website Link,knet.com.kw,https://knet.com.kw,Add missing https scheme / normalize URL syntax
+M061,Kuwait,Alternate1 Website,paypal.com,https://paypal.com,Add missing https scheme / normalize URL syntax
+M061,Kuwait,Alternate2 Website,apple.com/apple-pay/,https://apple.com/apple-pay/,Add missing https scheme / normalize URL syntax
+M062,Cuba,App Website Link,etecsa.cu/en/entrepreneurs/transfermovil,https://etecsa.cu/en/entrepreneurs/transfermovil,Add missing https scheme / normalize URL syntax
+M062,Cuba,App Screenshot Link,Website Not Accessable,https://website not accessable,Add missing https scheme / normalize URL syntax
+M062,Cuba,Alternate1 Website,www.enzona.net,https://www.enzona.net,Add missing https scheme / normalize URL syntax
+M062,Cuba,Alternate2 Website,somosmoneda.app,https://somosmoneda.app,Add missing https scheme / normalize URL syntax
+M063,Slovakia,App Website Link,viamo.io,https://viamo.io,Add missing https scheme / normalize URL syntax
+M063,Slovakia,Alternate1 Website,paypal.com,https://paypal.com,Add missing https scheme / normalize URL syntax
+M063,Slovakia,Alternate2 Website,apple.com/apple-pay/,https://apple.com/apple-pay/,Add missing https scheme / normalize URL syntax
+M064,Dominican Republic,App Website Link,orange.com,https://orange.com,Add missing https scheme / normalize URL syntax
+M064,Dominican Republic,Alternate1 Website,billet.do/,https://billet.do/,Add missing https scheme / normalize URL syntax
+M064,Dominican Republic,Alternate2 Website,paypal.com,https://paypal.com,Add missing https scheme / normalize URL syntax
+M065,Uzbekistan,App Website Link,click.uz,https://click.uz,Add missing https scheme / normalize URL syntax
+M065,Uzbekistan,Alternate1 Website,payme.uz,https://payme.uz,Add missing https scheme / normalize URL syntax
+M065,Uzbekistan,Alternate2 Website,uzcard.uz,https://uzcard.uz,Add missing https scheme / normalize URL syntax
+M066,Bulgaria,App Website Link,epay.com,https://epay.com,Add missing https scheme / normalize URL syntax
+M066,Bulgaria,Alternate1 Website,paypal.com,https://paypal.com,Add missing https scheme / normalize URL syntax
+M066,Bulgaria,Alternate2 Website,easypay.ua,https://easypay.ua,Add missing https scheme / normalize URL syntax
+M067,Ecuador,App Website Link,kushkipagos.com,https://kushkipagos.com,Add missing https scheme / normalize URL syntax
+M067,Ecuador,Alternate1 Website,pichincha.com,https://pichincha.com,Add missing https scheme / normalize URL syntax
+M067,Ecuador,Alternate2 Website,paypal.com,https://paypal.com,Add missing https scheme / normalize URL syntax
+M068,Puerto Rico,App Website Link,athmovil.com,https://athmovil.com,Add missing https scheme / normalize URL syntax
+M068,Puerto Rico,App Screenshot Link,Website Not Accessable,https://website not accessable,Add missing https scheme / normalize URL syntax
+M068,Puerto Rico,Alternate1 Website,paypal.com,https://paypal.com,Add missing https scheme / normalize URL syntax
+M068,Puerto Rico,Alternate2 Website,venmo.com,https://venmo.com,Add missing https scheme / normalize URL syntax
+M069,Kenya,App Website Link,mpesa.com,https://mpesa.com,Add missing https scheme / normalize URL syntax
+M069,Kenya,Alternate1 Website,loop.co.ke,https://loop.co.ke,Add missing https scheme / normalize URL syntax
+M069,Kenya,Alternate2 Website,telkom.co.ke/,https://telkom.co.ke/,Add missing https scheme / normalize URL syntax
+M070,Angola,App Website Link,zap.com,https://zap.com,Add missing https scheme / normalize URL syntax
+M070,Angola,Alternate1 Website,easypay.com,https://easypay.com,Add missing https scheme / normalize URL syntax
+M070,Angola,Alternate2 Website,gcash.com,https://gcash.com,Add missing https scheme / normalize URL syntax
+M071,Guatemala,App Website Link,gcash.com,https://gcash.com,Add missing https scheme / normalize URL syntax
+M071,Guatemala,Alternate1 Website,banrural.com.gt,https://banrural.com.gt,Add missing https scheme / normalize URL syntax
+M071,Guatemala,Alternate2 Website,midinero.com.uy,https://midinero.com.uy,Add missing https scheme / normalize URL syntax
+M072,Oman,App Website Link,omantel.om,https://omantel.om,Add missing https scheme / normalize URL syntax
+M072,Oman,Alternate1 Website,paycash.com,https://paycash.com,Add missing https scheme / normalize URL syntax
+M072,Oman,Alternate2 Name,Bank Muscat ,Bank Muscat,Trim whitespace / documented spelling or capitalization alias
+M072,Oman,Alternate2 Website,bankmuscat.com,https://bankmuscat.com,Add missing https scheme / normalize URL syntax
+M073,Venezuela,App Website Link,movilnet.net,https://movilnet.net,Add missing https scheme / normalize URL syntax
+M073,Venezuela,Alternate1 Website,bancodevenezuela.com,https://bancodevenezuela.com,Add missing https scheme / normalize URL syntax
+M073,Venezuela,Alternate2 Website,paypal.com,https://paypal.com,Add missing https scheme / normalize URL syntax
+M074,Costa Rica,App Website Link,bcr.ro,https://bcr.ro,Add missing https scheme / normalize URL syntax
+M074,Costa Rica,Alternate1 Website,baccredomatic.com,https://baccredomatic.com,Add missing https scheme / normalize URL syntax
+M074,Costa Rica,Alternate2 Website,paypal.com,https://paypal.com,Add missing https scheme / normalize URL syntax
+M075,Luxembourg,App Website Link,payconiq.com,https://payconiq.com,Add missing https scheme / normalize URL syntax
+M075,Luxembourg,Alternate1 Website,paypal.com,https://paypal.com,Add missing https scheme / normalize URL syntax
+M075,Luxembourg,Alternate2 Name,Twint,TWINT,Trim whitespace / documented spelling or capitalization alias
+M075,Luxembourg,Alternate2 Website,twint.ch,https://twint.ch,Add missing https scheme / normalize URL syntax
+M076,Croatia,App Website Link,aircash.eu,https://aircash.eu,Add missing https scheme / normalize URL syntax
+M076,Croatia,Alternate1 Website,paypal.com,https://paypal.com,Add missing https scheme / normalize URL syntax
+M076,Croatia,Alternate2 Website,vertexinc.com,https://vertexinc.com,Add missing https scheme / normalize URL syntax
+M077,Panama,App Website Link,www.yappy.com.pa,https://www.yappy.com.pa,Add missing https scheme / normalize URL syntax
+M077,Panama,Alternate1 Website,paypal.com,https://paypal.com,Add missing https scheme / normalize URL syntax
+M077,Panama,Alternate2 Website,banistmo.com,https://banistmo.com,Add missing https scheme / normalize URL syntax
+M078,Ivory Coast,App Website Link,orange.com,https://orange.com,Add missing https scheme / normalize URL syntax
+M078,Ivory Coast,Alternate1 Website,momo.mtn.com,https://momo.mtn.com,Add missing https scheme / normalize URL syntax
+M078,Ivory Coast,Alternate2 Website,momo.vn,https://momo.vn,Add missing https scheme / normalize URL syntax
+M079,Sri Lanka,App Website Link,dialog.lk,https://dialog.lk,Add missing https scheme / normalize URL syntax
+M079,Sri Lanka,Alternate1 Website,sampath.lk,https://sampath.lk,Add missing https scheme / normalize URL syntax
+M079,Sri Lanka,Alternate1 Review,Sampath Bank Mobile App APK for Android - Download,https://sampath bank mobile app apk for android - download,Add missing https scheme / normalize URL syntax
+M079,Sri Lanka,Alternate2 Website,paypal.com,https://paypal.com,Add missing https scheme / normalize URL syntax
+M080,Turkmenistan,Alternate1 Website,asuda.gov.tm,https://asuda.gov.tm,Add missing https scheme / normalize URL syntax
+M080,Turkmenistan,Alternate2 Website,e.gov.tm,https://e.gov.tm,Add missing https scheme / normalize URL syntax
+M081,Lithuania,App Website Link,paysera.com,https://paysera.com,Add missing https scheme / normalize URL syntax
+M081,Lithuania,Alternate1 Website,revolut.com,https://revolut.com,Add missing https scheme / normalize URL syntax
+M081,Lithuania,Alternate2 Website,transfergo.com,https://transfergo.com,Add missing https scheme / normalize URL syntax
+M082,Uruguay,App Website Link,dlocal.com,https://dlocal.com,Add missing https scheme / normalize URL syntax
+M082,Uruguay,Alternate1 Website,paypal.com,https://paypal.com,Add missing https scheme / normalize URL syntax
+M082,Uruguay,Alternate2 Website,abitab.com.uy,https://abitab.com.uy,Add missing https scheme / normalize URL syntax
+M083,Serbia,App Website Link,dinersclub.com,https://dinersclub.com,Add missing https scheme / normalize URL syntax
+M083,Serbia,Alternate1 Website,paypal.com,https://paypal.com,Add missing https scheme / normalize URL syntax
+M083,Serbia,Alternate2 Website,pay.google.com,https://pay.google.com,Add missing https scheme / normalize URL syntax
+M084,Tanzania,App Website Link,mpesa.com,https://mpesa.com,Add missing https scheme / normalize URL syntax
+M084,Tanzania,Alternate1 Website,pesa.co,https://pesa.co,Add missing https scheme / normalize URL syntax
+M084,Tanzania,Alternate2 Website,vodacom.co.tz,https://vodacom.co.tz,Add missing https scheme / normalize URL syntax
+M085,Azerbaijan,App Website Link,anipay.az,https://anipay.az,Add missing https scheme / normalize URL syntax
+M085,Azerbaijan,Alternate1 Website,click.uz,https://click.uz,Add missing https scheme / normalize URL syntax
+M085,Azerbaijan,Alternate2 Website,azericard.com,https://azericard.com,Add missing https scheme / normalize URL syntax
+M086,Ghana,App Website Link,momo.mtn.com,https://momo.mtn.com,Add missing https scheme / normalize URL syntax
+M086,Ghana,Alternate1 Website,hubtel.com,https://hubtel.com,Add missing https scheme / normalize URL syntax
+M086,Ghana,Alternate2 Website,airteltigo.com.gh,https://airteltigo.com.gh,Add missing https scheme / normalize URL syntax
+M087,Slovenia,App Website Link,moneta.ru,https://moneta.ru,Add missing https scheme / normalize URL syntax
+M087,Slovenia,Alternate1 Website,paypal.com,https://paypal.com,Add missing https scheme / normalize URL syntax
+M087,Slovenia,Alternate2 Name,Google wallet,Google Wallet,Trim whitespace / documented spelling or capitalization alias
+M087,Slovenia,Alternate2 Website,wallet.google/intl/,https://wallet.google/intl/,Add missing https scheme / normalize URL syntax
+M088,Belarus,App Website Link,belkart.by,https://belkart.by,Add missing https scheme / normalize URL syntax
+M088,Belarus,Alternate1 Website,paypal.com,https://paypal.com,Add missing https scheme / normalize URL syntax
+M088,Belarus,Alternate2 Website,bank.yandex.ru/pay,https://bank.yandex.ru/pay,Add missing https scheme / normalize URL syntax
+M089,DR Congo,App Website Link,mpesa.com,https://mpesa.com,Add missing https scheme / normalize URL syntax
+M089,DR Congo,Alternate1 Website,orange.com,https://orange.com,Add missing https scheme / normalize URL syntax
+M089,DR Congo,Alternate2 Website,velmie.com,https://velmie.com,Add missing https scheme / normalize URL syntax
+M090,Myanmar,App Website Link,wavemoney.com.mm,https://wavemoney.com.mm,Add missing https scheme / normalize URL syntax
+M090,Myanmar,Alternate1 Website,ongo.com.mm,https://ongo.com.mm,Add missing https scheme / normalize URL syntax
+M090,Myanmar,Alternate2 Website,kbzpay.com,https://kbzpay.com,Add missing https scheme / normalize URL syntax
+M091,Uganda,App Website Link,momo.mtn.com,https://momo.mtn.com,Add missing https scheme / normalize URL syntax
+M091,Uganda,Alternate1 Website,airtel.co.ug,https://airtel.co.ug,Add missing https scheme / normalize URL syntax
+M091,Uganda,Alternate2 Website,paypal.com,https://paypal.com,Add missing https scheme / normalize URL syntax
+M092,Macau,App Website Link,macaupass.com,https://macaupass.com,Add missing https scheme / normalize URL syntax
+M092,Macau,Alternate1 Website,alipay.com,https://alipay.com,Add missing https scheme / normalize URL syntax
+M092,Macau,Alternate2 Website,pay.wechat.com,https://pay.wechat.com,Add missing https scheme / normalize URL syntax
+M093,Cameroon,App Website Link,orange.com,https://orange.com,Add missing https scheme / normalize URL syntax
+M093,Cameroon,Alternate1 Website,momo.mtn.com,https://momo.mtn.com,Add missing https scheme / normalize URL syntax
+M093,Cameroon,Alternate2 Website,paypal.com,https://paypal.com,Add missing https scheme / normalize URL syntax
+M094,Jordan,App Website Link,zaincash.iq,https://zaincash.iq,Add missing https scheme / normalize URL syntax
+M094,Jordan,Alternate1 Website,pal.reflectapp.com,https://pal.reflectapp.com,Add missing https scheme / normalize URL syntax
+M094,Jordan,Alternate2 Website,anypay.co.th,https://anypay.co.th,Add missing https scheme / normalize URL syntax
+M095,Tunisia,App Review Link,Read 4 Flouci Reviews (2025) | flouci.com reviews,https://read 4 flouci reviews (2025) | flouci.com reviews,Add missing https scheme / normalize URL syntax
+M095,Tunisia,Alternate1 Website,paypal.com,https://paypal.com,Add missing https scheme / normalize URL syntax
+M095,Tunisia,Alternate2 Name,Twint,TWINT,Trim whitespace / documented spelling or capitalization alias
+M095,Tunisia,Alternate2 Website,twint.ch,https://twint.ch,Add missing https scheme / normalize URL syntax
+M096,Cambodia,App Website Link,pipay.com,https://pipay.com,Add missing https scheme / normalize URL syntax
+M096,Cambodia,Alternate1 Website,ababank.com,https://ababank.com,Add missing https scheme / normalize URL syntax
+M096,Cambodia,Alternate2 Website,wingbank.com.kh,https://wingbank.com.kh,Add missing https scheme / normalize URL syntax
+M097,Bolivia,App Website Link,tigomoney.com,https://tigomoney.com,Add missing https scheme / normalize URL syntax
+M097,Bolivia,Alternate1 Website,pagoefectivo.pe,https://pagoefectivo.pe,Add missing https scheme / normalize URL syntax
+M097,Bolivia,Alternate2 Website,paypal.com,https://paypal.com,Add missing https scheme / normalize URL syntax
+M098,Bahrain,App Website Link,benefit.bh,https://benefit.bh,Add missing https scheme / normalize URL syntax
+M098,Bahrain,Alternate1 Website,paypal.com,https://paypal.com,Add missing https scheme / normalize URL syntax
+M098,Bahrain,Alternate2 Website,tap.company,https://tap.company,Add missing https scheme / normalize URL syntax
+M099,Latvia,App Website Link,swedbank.com,https://swedbank.com,Add missing https scheme / normalize URL syntax
+M099,Latvia,Alternate1 Website,paypal.com,https://paypal.com,Add missing https scheme / normalize URL syntax
+M099,Latvia,Alternate2 Name,Google wallet,Google Wallet,Trim whitespace / documented spelling or capitalization alias
+M099,Latvia,Alternate2 Website,wallet.google/intl/,https://wallet.google/intl/,Add missing https scheme / normalize URL syntax
+M100,Paraguay,App Website Link,Tigo Money,https://tigo money,Add missing https scheme / normalize URL syntax
+M100,Paraguay,Alternate1 Website,personalpay.com,https://personalpay.com,Add missing https scheme / normalize URL syntax
+M100,Paraguay,Alternate2 Website,visa.com,https://visa.com,Add missing https scheme / normalize URL syntax

@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "Digital-Payments"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "3aa71553-27f1-46b2-8704-16f7618f9cf8"
+  }
+}

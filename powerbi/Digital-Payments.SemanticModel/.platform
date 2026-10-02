@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "Digital-Payments"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "9bab0b3a-46c5-4f72-b234-252aa310897a"
+  }
+}

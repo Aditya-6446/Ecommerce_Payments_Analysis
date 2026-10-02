@@ -1,0 +1,15 @@
+*.py text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+*.json text eol=lf
+*.toml text eol=lf
+data/raw/payments.csv -text whitespace=cr-at-eol
+data/processed/*.csv text eol=lf
+*.xlsx binary
+*.pbix binary
+*.sqlite binary
+*.png binary
+*.sql text eol=lf
+*.txt text eol=lf
+.gitattributes text eol=lf
+.gitignore text eol=lf

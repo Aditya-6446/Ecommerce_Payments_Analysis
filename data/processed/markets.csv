@@ -1,0 +1,101 @@
+market_id,country,iso3,primary_service,primary_service_id,reported_share,share_status,share_source_url,share_period,share_definition,alternative_1,alternative_2
+M001,United States,USA,Apple Pay,S9bb3a91fbff8,0.43,Unverified,,,,Google Pay,PayPal
+M002,China,CHN,Alipay,Sd5b72847b212,0.55,Unverified,,,,WeChat Pay,UnionPay
+M003,Germany,DEU,PayPal,Sab8a4f6bb84d,0.32,Unverified,,,,Klarna,Sofort
+M004,Japan,JPN,PayPay,S4d54ee71b475,0.31,Unverified,,,,LINE Pay,Rakuten Pay
+M005,India,IND,PhonePe,Seb46c4263e56,0.47,Unverified,,,,Google Pay,Paytm
+M006,United Kingdom,GBR,PayPal,Sab8a4f6bb84d,0.29,Unverified,,,,Apple Pay,Revolut
+M007,France,FRA,Paylib,S4fe05e7db04b,0.24,Unverified,,,,Lydia,Google Pay
+M008,Italy,ITA,Satispay,S4a84d0c48b14,0.2,Unverified,,,,Nexi,PayPal
+M009,Canada,CAN,Interac,Sbd194199fe09,0.35,Unverified,,,,Apple Pay,Google Pay
+M010,Brazil,BRA,PIX,S41b0635bb279,0.6,Unverified,,,,Mercado Pago,PayPal
+M011,Russia,RUS,Yandex.Money,Scc9155d76e81,0.25,Unverified,,,,Qiwi,WebMoney
+M012,South Korea,KOR,KakaoPay,Sc4987750ae1c,0.2,Unverified,,,,Samsung Pay,Naver Pay
+M013,Australia,AUS,Afterpay,S032a27679a37,0.23,Unverified,,,,Zip Pay,PayPal
+M014,Spain,ESP,Bizum,S09bf90a11ae3,0.42,Unverified,,,,PayPal,Apple Pay
+M015,Mexico,MEX,Samsung Pay,Scd248346b654,0.3,Unverified,,,,Mercado Pago,PayPal
+M016,Indonesia,IDN,OVO,S683e3175233e,0.4,Unverified,,,,GoPay,DANA
+M017,Turkey,TUR,BKM Express,S12ca66653f33,0.3,Unverified,,,,PayPal,Ininal
+M018,Netherlands,NLD,iDEAL,Sf54ab403ca1c,0.5,Unverified,,,,PayPal,SEPA
+M019,Saudi Arabia,SAU,STC Pay,Sbc7ff7a28899,0.15,Unverified,,,,Apple Pay,PayPal
+M020,Switzerland,CHE,TWINT,S4b4db0817515,0.25,Unverified,,,,PayPal,Apple Pay
+M021,Poland,POL,BLIK,S354add2d89a1,0.44,Unverified,,,,Revolut,PayU
+M022,Taiwan,TWN,LINE Pay,Se3a205bb818f,0.15,Unverified,,,,JkoPay,Apple Pay
+M023,Belgium,BEL,Bancontact,S84e7c82fea0f,0.22,Unverified,,,,Payconiq,PayPal
+M024,Sweden,SWE,Swish,S1e73623015d3,0.5,Unverified,,,,Klarna,PayPal
+M025,Argentina,ARG,Mercado Pago,Sfe640272446b,0.54,Unverified,,,,Naranja X,Ualá
+M026,Ireland,IRL,Revolut,Sdd53271a2e06,0.2,Unverified,,,,PayPal,N26
+M027,United Arab Emirates,ARE,Apple Pay,S9bb3a91fbff8,0.3,Unverified,,,,Samsung Pay,Noon Pay
+M028,Singapore,SGP,GrabPay,S09996930be63,0.35,Unverified,,,,PayNow,DBS PayLah
+M029,Austria,AUT,MobilePay,Seecadce162c6,0.25,Unverified,,,,PayPal,Klarna
+M030,Israel,ISR,Payoneer,S1c8aa3a6466b,0.2,Unverified,,,,BitPay,Isracard
+M031,Thailand,THA,Rabbit Line Pay,S67799a5cdcb4,0.22,Unverified,,,,TrueMoney,Alipay
+M032,Philippines,PHL,GCash,Seffe340b87b3,0.4,Unverified,,,,PayMaya,GrabPay
+M033,Vietnam,VNM,MoMo,S4f61b35afbac,0.33,Unverified,,,,ZaloPay,Viettel Pay
+M034,Norway,NOR,Vipps,S8c98ead1dc6f,0.22,Unverified,,,,PayPal,Apple Pay
+M035,Malaysia,MYS,Touch 'n Go,Sda053fa8064d,0.27,Unverified,,,,CIMB OCTO MY,Boost
+M036,Iran,IRN,Shetab,S1bd7750deb16,0.15,Unverified,,,,Zarinpal,Pay.ir
+M037,Bangladesh,BGD,bKash,S5dbff7563966,0.43,Unverified,,,,Nagad,Rocket
+M038,Denmark,DNK,MobilePay,Seecadce162c6,0.3,Unverified,,,,Apple Pay,Google Pay
+M039,Hong Kong,HKG,Alipay,Sd5b72847b212,0.3,Unverified,,,,WeChat Pay,Octopus
+M040,Colombia,COL,Nequi,Sb059c7cc919f,0.18,Unverified,,,,Daviplata,Bancolombia
+M041,South Africa,ZAF,SnapScan,S712542eb0998,0.15,Unverified,,,,Zapper,PayPal
+M042,Romania,ROU,MobilePay,Seecadce162c6,0.2,Unverified,,,,PayU,Revolut
+M043,Egypt,EGY,Fawry,Se9bcb76e743e,0.25,Unverified,,,,myfawry,Aman
+M044,Pakistan,PAK,JazzCash,Sa0b41fabd1f4,0.3,Unverified,,,,EasyPaisa,PayPal
+M045,Chile,CHL,WebPay,S722f7eba24a7,0.25,Unverified,,,,Transbank,Khipu
+M046,Czech Republic,CZE,GoPay,S177eb549798b,0.2,Unverified,,,,PayPal,Apple Pay
+M047,Finland,FIN,MobilePay,Seecadce162c6,0.3,Unverified,,,,Siirto,PayPal
+M048,Portugal,PRT,MB Way,Sa70a35b72c22,0.2,Unverified,,,,PayPal,Revolut
+M049,Hungary,HUN,SimplePay,S19ce229ca0ea,0.25,Unverified,,,,Barion,PayPal
+M050,Kazakhstan,KAZ,Kaspi.kz,S355387169087,0.35,Unverified,,,,Halyk Bank,Paybox
+M051,Peru,PER,Yape,S560f89b4e57b,0.35,Unverified,,,,Banca Móvil BCP,Niubiz
+M052,Iraq,IRQ,Zain Cash,Sfb1c3e32ff7c,0.1,Unverified,,,,Qi Services,FastPay
+M053,Greece,GRC,Viva Wallet,Seff765f55a78,0.2,Unverified,,,,PayPal,Revolut
+M054,Algeria,DZA,Barid Bank,S3bf830ec58e4,0.15,Unverified,,,,CIB,CashAddress
+M055,New Zealand,NZL,Apple Pay,S9bb3a91fbff8,0.25,Unverified,,,,Afterpay,PayPal
+M056,Qatar,QAT,Ooredoo Money,S6de18e00d6b3,0.2,Unverified,,,,Binance,CBQ Mobile
+M057,Ethiopia,ETH,M-Birr,S721a27a1aa5e,0.2,Unverified,,,,Payoneer,Amole
+M058,Nigeria,NGA,Paystack,S8421e6a3d5ee,0.3,Unverified,,,,Flutterwave,Moniepoint
+M059,Ukraine,UKR,PrivatBank,Safbffd978275,0.25,Unverified,,,,Monobank,PUMB
+M060,Morocco,MAR,Wafacash,S6f21be3f4238,0.15,Unverified,,,,CIH Mobile,Cash Plus
+M061,Kuwait,KWT,KNET,Sc43969a3bafd,0.2,Unverified,,,,PayPal,Apple Pay
+M062,Cuba,CUB,Transfermóvil,Sb1b70335837f,0.1,Unverified,,,,EnZona,Moneda U
+M063,Slovakia,SVK,VIAMO,Sdc665e6c8a2c,0.1,Unverified,,,,PayPal,Apple Pay
+M064,Dominican Republic,DOM,Orange Money,S30438e444cb9,0.1,Unverified,,,,Billet,PayPal
+M065,Uzbekistan,UZB,Click,S95ba4ed9329f,0.15,Unverified,,,,Payme,UzCard
+M066,Bulgaria,BGR,ePay,S4d8fcc240109,0.2,Unverified,,,,PayPal,EasyPay
+M067,Ecuador,ECU,Kushki,S8bb8de8cc73e,0.15,Unverified,,,,PICHINCHA BANCA,PayPal
+M068,Puerto Rico,PRI,ATH Móvil,Sa186ae7a8096,0.4,Unverified,,,,PayPal,Venmo
+M069,Kenya,KEN,M-Pesa,S53db2806be5a,0.45,Unverified,,,,Loop,T-Kash
+M070,Angola,AGO,ZAP,S94f173f4b39c,0.1,Unverified,,,,Easypay,GCash
+M071,Guatemala,GTM,GCash,Seffe340b87b3,0.2,Unverified,,,,BANRURAL,MiDinero
+M072,Oman,OMN,Oman Mobile Payment,S9b425f30fe38,0.1,Unverified,,,,PayCash,Bank Muscat
+M073,Venezuela,VEN,Movilnet,S9656243ca723,0.15,Unverified,,,,Banco de Venezuela,PayPal
+M074,Costa Rica,CRI,bank BCR,S5a33d5fbfbc5,0.15,Unverified,,,,BAC Credomatic,PayPal
+M075,Luxembourg,LUX,Payconiq,S658e993fb9d6,0.1,Unverified,,,,PayPal,TWINT
+M076,Croatia,HRV,AirCash,S8409bece1699,0.15,Unverified,,,,PayPal,Vertex
+M077,Panama,PAN,Yappy,S2a2a83212153,0.2,Unverified,,,,PayPal,Banistmo
+M078,Ivory Coast,CIV,Orange Money,S30438e444cb9,0.3,Unverified,,,,MTN Mobile Money,MoMo
+M079,Sri Lanka,LKA,Dialog eZ Cash,Sd289ae1c3730,0.15,Unverified,,,,Sampath e-Wallet,PayPal
+M080,Turkmenistan,TKM,Çapar Pay,S813979cbe3f6,0.1,Unverified,,,,Galkan töleg,e gov tm
+M081,Lithuania,LTU,Paysera,Sfd6f7a606c5b,0.2,Unverified,,,,Revolut,TransferGo
+M082,Uruguay,URY,dLocal,S1f12994d9b0c,0.25,Unverified,,,,PayPal,Abitab
+M083,Serbia,SRB,Diners Club,S851925fb67ea,0.15,Unverified,,,,PayPal,Google Pay
+M084,Tanzania,TZA,M-Pesa,S53db2806be5a,0.3,Unverified,,,,Really Pesa,M-Pesa
+M085,Azerbaijan,AZE,AniPay,Sfb8965ab4a52,0.1,Unverified,,,,Click,AzeriPay
+M086,Ghana,GHA,MTN Mobile Money,S57b68256e28f,0.4,Unverified,,,,Hubtel,AirtelTigo
+M087,Slovenia,SVN,Moneta,S4a523f589732,0.15,Unverified,,,,PayPal,Google Wallet
+M088,Belarus,BLR,Oplata,Sb58ff996311b,0.1,Unverified,,,,PayPal,Yandex.Money
+M089,DR Congo,COD,Airtel Money,S91c395c3c9e0,0.25,Unverified,,,,Orange Money,Velmie
+M090,Myanmar,MMR,Wave Money,S819ffe68a604,0.15,Unverified,,,,Ongo,KBZ Pay
+M091,Uganda,UGA,MTN Mobile Money,S57b68256e28f,0.25,Unverified,,,,Airtel Uganda,PayPal
+M092,Macau,MAC,Macau Pass,S81b0fd1b771e,0.15,Unverified,,,,Alipay,WeChat Pay
+M093,Cameroon,CMR,Orange Money,S30438e444cb9,0.15,Unverified,,,,MTN Mobile Money,PayPal
+M094,Jordan,JOR,Zain Cash,Sfb1c3e32ff7c,0.1,Unverified,,,,Reflect,AnyPay
+M095,Tunisia,TUN,E-dinar,S742a084076c8,0.2,Unverified,,,,PayPal,TWINT
+M096,Cambodia,KHM,Pi Pay,S4c6134be7015,0.15,Unverified,,,,ABA Mobile,Wing Bank
+M097,Bolivia,BOL,Tigo Money,S8ce839d84089,0.15,Unverified,,,,PagoEfectivo,PayPal
+M098,Bahrain,BHR,Benefit Pay,S49f1fb437cf1,0.2,Unverified,,,,PayPal,Tap
+M099,Latvia,LVA,Mobilly,Sab5445957d32,0.15,Unverified,,,,PayPal,Google Wallet
+M100,Paraguay,PRY,Tigo Money,S8ce839d84089,0.15,Unverified,,,,Personal Pay,Visa
