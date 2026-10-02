@@ -9,9 +9,8 @@ import streamlit as st
 
 from src.payments import ROOT, filter_listings, prepare_data, service_coverage
 
-BLUE = "#315CDE"
-INK = "#17233C"
-MUTED = "#738098"
+ACCENT = "#79B7AE"
+INK = "#202725"
 
 
 @st.cache_data
@@ -21,12 +20,12 @@ def load_data(source_modified: float):
 
 def style_chart(fig, height=390):
     fig.update_layout(
-        height=height, margin=dict(l=0, r=18, t=12, b=0),
+        height=height, margin=dict(l=0, r=20, t=16, b=6),
         paper_bgcolor="rgba(0,0,0,0)", plot_bgcolor="rgba(0,0,0,0)",
         font=dict(family="Arial", size=12, color=INK),
-        hoverlabel=dict(bgcolor="white", font_color=INK),
-        xaxis=dict(gridcolor="#E5E9F1", zeroline=False),
-        yaxis=dict(gridcolor="#E5E9F1", zeroline=False),
+        hoverlabel=dict(bgcolor=INK, font_color="#F8F6EF"),
+        xaxis=dict(gridcolor="#EAE8E0", zeroline=False),
+        yaxis=dict(gridcolor="#EAE8E0", zeroline=False),
     )
     return fig
 
@@ -42,39 +41,43 @@ def overview(data, filtered):
         st.info("No listings match these filters. Clear a filter or reset the selection.")
         return
     coverage = service_coverage(filtered)
-    left, right = st.columns([1.05, 1], gap="large")
-    with left:
+    left, right = st.columns([1.05, 1], gap="medium")
+    with left, st.container(border=True, key="chart_services"):
+        st.markdown('<div class="panel-kicker">01 / SERVICE COVERAGE</div>', unsafe_allow_html=True)
         st.subheader("Most-listed services")
-        st.caption("Distinct markets where each service appears in the selected dataset records.")
+        st.caption("Distinct markets mentioning each service in the selected records.")
         top = coverage.head(12).sort_values(["markets_listed", "service"], ascending=[True, False])
         fig = px.bar(top, x="markets_listed", y="service", orientation="h", text="markets_listed",
-                     color_discrete_sequence=[BLUE], labels={"markets_listed": "Markets listed", "service": ""})
+                     color_discrete_sequence=["#4F8D83"], labels={"markets_listed": "Markets listed", "service": ""})
         fig.update_traces(textposition="outside", cliponaxis=False,
-                          hovertemplate="%{y}<br>Markets listed: %{x}<extra></extra>")
+                          marker_cornerradius=5, hovertemplate="%{y}<br>Markets listed: %{x}<extra></extra>")
         fig.update_xaxes(range=[0, max(top["markets_listed"]) * 1.16], dtick=10 if top["markets_listed"].max() > 20 else 1)
         st.plotly_chart(style_chart(fig), width="stretch", config={"displayModeBar": False})
-    with right:
+    with right, st.container(border=True, key="chart_markets"):
+        st.markdown('<div class="panel-kicker">02 / GEOGRAPHIC VIEW</div>', unsafe_allow_html=True)
         st.subheader("Markets in this selection")
         st.caption("Geographic coverage of the dataset records selected in the sidebar.")
         mapped = filtered.groupby(["country", "iso3"], as_index=False).agg(listings=("listing_id", "size"))
         mapped["included"] = 1
         fig = px.choropleth(mapped, locations="iso3", color="included", hover_name="country",
-                            custom_data=["listings"], color_continuous_scale=[BLUE, BLUE])
+                            custom_data=["listings"], color_continuous_scale=["#4F8D83", "#4F8D83"])
         fig.update_traces(hovertemplate="%{hovertext}<br>Selected listings: %{customdata[0]}<extra></extra>",
-                          marker_line_color="#FFFFFF", marker_line_width=0.45)
-        fig.update_geos(showframe=False, showcoastlines=False, showland=True, landcolor="#E7ECF5",
+                          marker_line_color="#F8F6EF", marker_line_width=0.45)
+        fig.update_geos(showframe=False, showcoastlines=False, showland=True, landcolor="#E9E6DD",
                         bgcolor="rgba(0,0,0,0)", projection_type="natural earth", fitbounds=False,
-                        projection_scale=1.85)
+                        projection_scale=2.45)
         fig.update_layout(coloraxis_showscale=False)
         st.plotly_chart(style_chart(fig), width="stretch", config={"displayModeBar": False})
     best = coverage.iloc[0]
     st.markdown(
-        f'<div class="finding"><span>FROM THIS SELECTION</span><strong>{escape(best["service"])} '
-        f'appears in {int(best["markets_listed"])} of {filtered["market_id"].nunique()} selected markets.</strong>'
-        '<p>This counts mentions in the original research table. It does not measure users or payment volume.</p></div>',
+        '<div class="finding"><div class="finding-mark">↗</div><div><span>THE SIGNAL IN THIS SELECTION</span>'
+        f'<strong>{escape(best["service"])} appears in <em>{int(best["markets_listed"])} of '
+        f'{filtered["market_id"].nunique()}</em> selected markets.</strong>'
+        '<p>This counts mentions in the original research table. It does not measure users or payment volume.</p></div></div>',
         unsafe_allow_html=True,
     )
-    with st.container(border=True):
+    with st.container(border=True, key="listings_panel"):
+        st.markdown('<div class="panel-kicker">03 / SOURCE RECORDS</div>', unsafe_allow_html=True)
         st.subheader("Explore the listings")
         columns = ["country", "service", "role", "website", "review_url"]
         view = filtered[columns].rename(columns={"country": "Market", "service": "Payment service", "role": "Listed role",
@@ -87,6 +90,7 @@ def overview(data, filtered):
 
 
 def compare_markets(data):
+    st.markdown('<div class="section-kicker">MARKET COMPARISON / 02</div>', unsafe_allow_html=True)
     st.subheader("Compare markets")
     st.caption("Explore the main service and two alternatives recorded for each market in the source.")
     selected = st.multiselect("Choose up to three markets", sorted(data.markets["country"].tolist()),
@@ -94,8 +98,9 @@ def compare_markets(data):
     if not selected:
         st.info("Choose a market to start the comparison.")
         return
-    for col, country in zip(st.columns(len(selected), gap="medium"), selected):
-        with col, st.container(border=True):
+    for index, (col, country) in enumerate(zip(st.columns(len(selected), gap="medium"), selected), start=1):
+        with col, st.container(border=True, key=f"market_card_{index}"):
+            st.markdown(f'<div class="panel-kicker">MARKET PROFILE / {index:02d}</div>', unsafe_allow_html=True)
             st.markdown(f"### {country}")
             records = data.listings[data.listings["country"].eq(country)]
             for _, record in records.iterrows():
@@ -118,6 +123,7 @@ def compare_markets(data):
 
 
 def methodology(data):
+    st.markdown('<div class="section-kicker">BEHIND THE NUMBERS / 03</div>', unsafe_allow_html=True)
     st.subheader("Data and methodology")
     st.write("The original collaborative project collected one main payment service and two alternatives for 100 countries and territories. "
              "The explorer reshapes those records into market, service and listing tables.")
@@ -153,21 +159,7 @@ def methodology(data):
 
 def main():
     st.set_page_config(page_title="Digital Payments Explorer · Aditya Sharma", page_icon="◈", layout="wide")
-    st.markdown("""<style>
-    .block-container { max-width: 1440px; padding-top: 3.5rem; padding-bottom: 3rem; }
-    h1 { letter-spacing: -.045em; font-weight: 700 !important; line-height: 1.1 !important; }
-    h3 { letter-spacing: -.025em; }
-    .eyebrow { color:#738098; font-size:11px; font-weight:700; letter-spacing:.16em; margin-bottom:16px; }
-    .intro { color:#738098; font-size:16px; max-width:680px; margin:14px 0 18px; line-height:1.6; }
-    [data-testid="stMetric"] { background:white; border:1px solid #E4E8F0; border-radius:12px; padding:18px 22px; }
-    [data-testid="stMetricValue"] { font-size:32px; font-weight:600; letter-spacing:-.04em; }
-    [data-testid="stSidebar"] { border-right:1px solid #E4E8F0; }
-    .finding { background:#E9EEFD; border:1px solid #D7E0FB; border-radius:12px; padding:22px 26px; margin:10px 0 26px; }
-    .finding span { display:block; color:#315CDE; font-size:10px; font-weight:700; letter-spacing:.14em; margin-bottom:10px; }
-    .finding strong { display:block; font-size:19px; letter-spacing:-.02em; }
-    .finding p { color:#63708A; font-size:13px; margin:9px 0 0; }
-    @media(max-width:640px) { .block-container { padding:3.4rem 1rem 1.3rem; } }
-    </style>""", unsafe_allow_html=True)
+    st.markdown(f"<style>{(ROOT / 'dashboard.css').read_text(encoding='utf-8')}</style>", unsafe_allow_html=True)
     source = ROOT / "data/raw/payments.csv"
     try:
         data = load_data(source.stat().st_mtime)
@@ -175,10 +167,9 @@ def main():
         st.error(f"The dataset could not be loaded: {error}")
         st.stop()
     with st.sidebar:
-        st.markdown("### Payments explorer")
-        st.caption("Explore a collaborative research dataset")
-        st.divider()
-        st.markdown("**Filter the overview**")
+        st.markdown('<div class="sidebar-brand"><div class="brand-symbol">◈</div><div><span>RESEARCH SERIES / 01</span><strong>Payments<br>Explorer</strong></div></div>', unsafe_allow_html=True)
+        st.markdown('<div class="sidebar-lede">A closer look at how payment services are listed across markets.</div>', unsafe_allow_html=True)
+        st.markdown('<div class="sidebar-section">REFINE THE VIEW <span>↘</span></div>', unsafe_allow_html=True)
         countries = st.multiselect("Markets", sorted(data.markets["country"].tolist()), key="countries")
         service_names = dict(zip(data.services["service_id"], data.services["service"]))
         services = st.multiselect("Payment services", data.services["service_id"].tolist(),
@@ -186,29 +177,30 @@ def main():
         roles = st.multiselect("Listed role", ["Primary", "Alternative 1", "Alternative 2"], key="roles")
         search = st.text_input("Search markets or services", placeholder="Try India or PayPal", key="search")
         st.button("Reset filters", on_click=reset_filters, width="stretch")
-        st.divider()
-        st.caption("Coverage refers to mentions in this dataset. Market-share figures and current availability need source verification.")
+        st.markdown('<div class="sidebar-note"><span>READING NOTE</span><p>Coverage means mentions in this dataset. Market-share figures and current availability still need source verification.</p></div>', unsafe_allow_html=True)
         st.link_button("Portfolio ↗", "https://aditya-6446.github.io/portfolio/")
     filtered = filter_listings(data.listings, countries, services, roles, search)
-    st.markdown('<div class="eyebrow">ADITYA SHARMA / DATA ANALYSIS</div>', unsafe_allow_html=True)
-    st.title("Digital payments, across markets.")
-    st.markdown('<div class="intro">Explore payment-service listings, compare markets, and follow the data from its original source to the analysis.</div>', unsafe_allow_html=True)
-    st.caption("ORIGINAL RESEARCH SNAPSHOT · 100 COUNTRIES AND TERRITORIES · SOURCE VERIFICATION IN PROGRESS")
+    st.markdown('''<div class="hero"><div class="hero-orbit orbit-one"></div><div class="hero-orbit orbit-two"></div>
+        <div class="hero-top"><span><i></i> ADITYA SHARMA / DATA ANALYSIS</span><span>FIELD NOTES — 001</span></div>
+        <div class="hero-content"><div class="hero-overline">THE DIGITAL PAYMENTS EXPLORER</div>
+        <h1>Payments are global.<br><em>The story is local.</em></h1>
+        <p>Explore payment-service listings, compare markets, and trace each insight back to its source.</p></div>
+        <div class="hero-bottom"><span>100 COUNTRIES &amp; TERRITORIES</span><span>RESEARCH SNAPSHOT <b>·</b> SOURCE VERIFICATION IN PROGRESS</span></div></div>''', unsafe_allow_html=True)
+    st.markdown('<div class="nav-kicker">EXPLORE THE RESEARCH <span>↓</span></div>', unsafe_allow_html=True)
     section = st.radio("Explore", ["Overview", "Compare markets", "Data & methodology"], horizontal=True, label_visibility="collapsed", key="section")
-    st.divider()
     if section == "Overview":
+        st.markdown('<div class="section-heading"><div><span>AT A GLANCE / 01</span><h2>Explore the dataset</h2></div><p>Filter the records to see how the picture changes.</p></div>', unsafe_allow_html=True)
         stats = st.columns(4, gap="medium")
         stats[0].metric("Markets selected", filtered["market_id"].nunique())
         stats[1].metric("Services listed", filtered["service_id"].nunique())
         stats[2].metric("Service listings", len(filtered))
         stats[3].metric("Primary listings", int(filtered["role"].eq("Primary").sum()))
-        st.write("")
         overview(data, filtered)
     elif section == "Compare markets":
         compare_markets(data)
     else:
         methodology(data)
-    st.caption("Digital Payments Explorer · Python, SQL, Excel and interactive visualization · Collaborative project")
+    st.markdown('<div class="dashboard-footer"><span>◈ &nbsp; DIGITAL PAYMENTS EXPLORER</span><span>ADITYA SHARMA &nbsp; / &nbsp; DATA ANALYSIS</span></div>', unsafe_allow_html=True)
 
 
 if __name__ == "__main__":
