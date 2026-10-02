@@ -18,6 +18,7 @@ A collaborative payments research project, rebuilt into an interactive explorer 
 | [Editable Power BI project](powerbi/Digital-Payments-Explorer.pbip) | Review the report definitions, relationships, Power Query snapshot and DAX measures |
 | [SQL analysis](sql/analysis.sql) | Reproduce coverage, role-mix, market-comparison and evidence checks against the included SQLite database |
 | [Findings](docs/findings.md) | Read the conclusions and their practical limits |
+| [Interview guide](docs/interview-guide.md) | Learn the project in plain language and practise explaining its methods and limits |
 
 The dashboard currently runs locally. The Excel and Power BI files can be downloaded and opened independently.
 
@@ -80,6 +81,7 @@ data/raw/payments.csv       Preserved original research snapshot
 data/processed/             Prepared tables, SQLite database and audit trail
 src/payments.py             Cleaning, validation, filtering and coverage logic
 streamlit_app.py            Interactive dashboard
+dashboard.css               Dashboard visual design and responsive layout
 sql/analysis.sql            Reproducible analytical queries
 outputs/payments-analysis/  Excel workbook and populated Power BI report
 powerbi/                   Editable Power BI project and embedded data model
