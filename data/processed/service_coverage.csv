@@ -1,0 +1,192 @@
+service_id,service,markets_listed,primary,alternative,listings
+Sab8a4f6bb84d,PayPal,47,2,45,47
+S9bb3a91fbff8,Apple Pay,14,3,11,14
+Sdd53271a2e06,Revolut,7,1,6,7
+Scfe1ae6e7f3a,Google Pay,6,0,6,6
+Sd5b72847b212,Alipay,4,2,2,4
+S57b68256e28f,MTN Mobile Money,4,2,2,4
+Seecadce162c6,MobilePay,4,4,0,4
+S30438e444cb9,Orange Money,4,3,1,4
+Seffe340b87b3,GCash,3,2,1,3
+Sa2e779358d0d,Klarna,3,0,3,3
+Sfe640272446b,Mercado Pago,3,1,2,3
+Scd248346b654,Samsung Pay,3,1,2,3
+S4b4db0817515,TWINT,3,1,2,3
+Sa39c6414ea1e,WeChat Pay,3,0,3,3
+S032a27679a37,Afterpay,2,1,1,2
+S95ba4ed9329f,Click,2,1,1,2
+S177eb549798b,GoPay,2,1,1,2
+S9518f42ad7fb,Google Wallet,2,0,2,2
+S09996930be63,GrabPay,2,1,1,2
+Se3a205bb818f,LINE Pay,2,1,1,2
+S53db2806be5a,M-Pesa,2,2,1,3
+S4f61b35afbac,MoMo,2,1,1,2
+S97aaa5725e62,PayU,2,0,2,2
+S658e993fb9d6,Payconiq,2,1,1,2
+S1c8aa3a6466b,Payoneer,2,1,1,2
+S8ce839d84089,Tigo Money,2,2,0,2
+Scc9155d76e81,Yandex.Money,2,1,1,2
+Sfb1c3e32ff7c,Zain Cash,2,2,0,2
+Sea0c0ee3ba62,ABA Mobile,1,0,1,1
+Sa186ae7a8096,ATH Móvil,1,1,0,1
+S0e3d54f3e7b6,Abitab,1,0,1,1
+S8409bece1699,AirCash,1,1,0,1
+S91c395c3c9e0,Airtel Money,1,1,0,1
+Sb644e31f390d,Airtel Uganda,1,0,1,1
+S6db696456e43,AirtelTigo,1,0,1,1
+See286ba33708,Aman,1,0,1,1
+Sfc8e27f609f4,Amole,1,0,1,1
+Sfb8965ab4a52,AniPay,1,1,0,1
+Sc7d464d29ff2,AnyPay,1,0,1,1
+Se2ad46d3f48e,AzeriPay,1,0,1,1
+S847ed24aba8f,BAC Credomatic,1,0,1,1
+S9ab007d4bdcf,BANRURAL,1,0,1,1
+S12ca66653f33,BKM Express,1,1,0,1
+S354add2d89a1,BLIK,1,1,0,1
+S5e1d15a80a51,Banca Móvil BCP,1,0,1,1
+S028fa62fc793,Banco de Venezuela,1,0,1,1
+S8370f96e9d93,Bancolombia,1,0,1,1
+S84e7c82fea0f,Bancontact,1,1,0,1
+S6091bb1c77f0,Banistmo,1,0,1,1
+S9fdb2b0725ab,Bank Muscat,1,0,1,1
+S3bf830ec58e4,Barid Bank,1,1,0,1
+S9f4c0a6f6150,Barion,1,0,1,1
+S49f1fb437cf1,Benefit Pay,1,1,0,1
+S2f77e8e6b5c1,Billet,1,0,1,1
+Sf1624fcc63b6,Binance,1,0,1,1
+Se1acedc90190,BitPay,1,0,1,1
+S09bf90a11ae3,Bizum,1,1,0,1
+S0d791a0a6f01,Boost,1,0,1,1
+S0dbf7f12f197,CBQ Mobile,1,0,1,1
+Sa9314df8e7a9,CIB,1,0,1,1
+Sb3b4252796e8,CIH Mobile,1,0,1,1
+S2d0bec069274,CIMB OCTO MY,1,0,1,1
+Sa35b4fd24390,Cash Plus,1,0,1,1
+Sb776149d47e3,CashAddress,1,0,1,1
+S39dd0861d128,DANA,1,0,1,1
+Sc953363739d2,DBS PayLah,1,0,1,1
+S49b7ccf946a7,Daviplata,1,0,1,1
+Sd289ae1c3730,Dialog eZ Cash,1,1,0,1
+S851925fb67ea,Diners Club,1,1,0,1
+S742a084076c8,E-dinar,1,1,0,1
+S8a2d4c009231,EasyPaisa,1,0,1,1
+Sf9b71269f6ff,EasyPay,1,0,1,1
+Sf46b7c2274d4,Easypay,1,0,1,1
+Sdc19504a356a,EnZona,1,0,1,1
+S33e6460b0614,FastPay,1,0,1,1
+Se9bcb76e743e,Fawry,1,1,0,1
+S419c017fec88,Flutterwave,1,0,1,1
+Sfe4df7a72733,Galkan töleg,1,0,1,1
+S88853e062e22,Halyk Bank,1,0,1,1
+S4e3de48b0f3a,Hubtel,1,0,1,1
+Sc6f881bfe8f5,Ininal,1,0,1,1
+Sbd194199fe09,Interac,1,1,0,1
+Sf2bcbe5abd94,Isracard,1,0,1,1
+Sa0b41fabd1f4,JazzCash,1,1,0,1
+Sb0c9e4b4309e,JkoPay,1,0,1,1
+Sc92ee581fa42,KBZ Pay,1,0,1,1
+Sc43969a3bafd,KNET,1,1,0,1
+Sc4987750ae1c,KakaoPay,1,1,0,1
+S355387169087,Kaspi.kz,1,1,0,1
+S888804c60126,Khipu,1,0,1,1
+S8bb8de8cc73e,Kushki,1,1,0,1
+Sf2f6a0188995,Loop,1,0,1,1
+S5a28fa1fccb6,Lydia,1,0,1,1
+S721a27a1aa5e,M-Birr,1,1,0,1
+Sa70a35b72c22,MB Way,1,1,0,1
+S81b0fd1b771e,Macau Pass,1,1,0,1
+S42fa0795c14e,MiDinero,1,0,1,1
+Sab5445957d32,Mobilly,1,1,0,1
+S716188579105,Moneda U,1,0,1,1
+S4a523f589732,Moneta,1,1,0,1
+Sf465788dea89,Moniepoint,1,0,1,1
+S9722e8c42d66,Monobank,1,0,1,1
+S9656243ca723,Movilnet,1,1,0,1
+Sb86ee665f29a,N26,1,0,1,1
+S1eb67b986588,Nagad,1,0,1,1
+Sb4047e184273,Naranja X,1,0,1,1
+S7906b84d8f9d,Naver Pay,1,0,1,1
+Sb059c7cc919f,Nequi,1,1,0,1
+S24ef7ec7e764,Nexi,1,0,1,1
+S0f07802df56d,Niubiz,1,0,1,1
+S22f85bf6fa63,Noon Pay,1,0,1,1
+S683e3175233e,OVO,1,1,0,1
+Sa7c7b3a28a61,Octopus,1,0,1,1
+S9b425f30fe38,Oman Mobile Payment,1,1,0,1
+S0a364d6b3a0b,Ongo,1,0,1,1
+S6de18e00d6b3,Ooredoo Money,1,1,0,1
+Sb58ff996311b,Oplata,1,1,0,1
+S1b57eeacfbd3,PICHINCHA BANCA,1,0,1,1
+S41b0635bb279,PIX,1,1,0,1
+S84287a10e6fb,PUMB,1,0,1,1
+S46c79b38cace,PagoEfectivo,1,0,1,1
+Sd2cb4f99541e,Pay.ir,1,0,1,1
+Sd274d9c0228d,PayCash,1,0,1,1
+Scc2cd9293700,PayMaya,1,0,1,1
+S5c5af06729d3,PayNow,1,0,1,1
+S4d54ee71b475,PayPay,1,1,0,1
+S1b96cf56a09b,Paybox,1,0,1,1
+S4fe05e7db04b,Paylib,1,1,0,1
+Sf06f0269cf5d,Payme,1,0,1,1
+Sfd6f7a606c5b,Paysera,1,1,0,1
+S8421e6a3d5ee,Paystack,1,1,0,1
+Sb2a940b2a2ea,Paytm,1,0,1,1
+Sfe7479645397,Personal Pay,1,0,1,1
+Seb46c4263e56,PhonePe,1,1,0,1
+S4c6134be7015,Pi Pay,1,1,0,1
+Safbffd978275,PrivatBank,1,1,0,1
+S87bb80aa218c,Qi Services,1,0,1,1
+S78832fd1d06f,Qiwi,1,0,1,1
+S67799a5cdcb4,Rabbit Line Pay,1,1,0,1
+S943d2ae40a1e,Rakuten Pay,1,0,1,1
+S2cae73bdcb7c,Really Pesa,1,0,1,1
+S9bd75a3fb14a,Reflect,1,0,1,1
+Sd40a5aca994e,Rocket,1,0,1,1
+S832c3b1ba488,SEPA,1,0,1,1
+Sbc7ff7a28899,STC Pay,1,1,0,1
+S4dc53e64465b,Sampath e-Wallet,1,0,1,1
+S4a84d0c48b14,Satispay,1,1,0,1
+S1bd7750deb16,Shetab,1,1,0,1
+S3e68d4365d41,Siirto,1,0,1,1
+S19ce229ca0ea,SimplePay,1,1,0,1
+S712542eb0998,SnapScan,1,1,0,1
+S02f195c0ad8e,Sofort,1,0,1,1
+S1e73623015d3,Swish,1,1,0,1
+Sb1a34ffcbfc3,T-Kash,1,0,1,1
+S464d23b54f26,Tap,1,0,1,1
+Sda053fa8064d,Touch 'n Go,1,1,0,1
+Se2d8004648db,Transbank,1,0,1,1
+S0e8f6fd2e105,TransferGo,1,0,1,1
+Sb1b70335837f,Transfermóvil,1,1,0,1
+S06780a7a437a,TrueMoney,1,0,1,1
+Sa76287c409c4,Ualá,1,0,1,1
+Sf926e95ae759,UnionPay,1,0,1,1
+S6e23756c3c9b,UzCard,1,0,1,1
+Sdc665e6c8a2c,VIAMO,1,1,0,1
+S04dad77b6120,Velmie,1,0,1,1
+Sa1593ecc5a13,Venmo,1,0,1,1
+Saaabb660e287,Vertex,1,0,1,1
+S556d78f4690a,Viettel Pay,1,0,1,1
+S8c98ead1dc6f,Vipps,1,1,0,1
+Sa725bda1f33e,Visa,1,0,1,1
+Seff765f55a78,Viva Wallet,1,1,0,1
+S6f21be3f4238,Wafacash,1,1,0,1
+S819ffe68a604,Wave Money,1,1,0,1
+S8e61bf5c793c,WebMoney,1,0,1,1
+S722f7eba24a7,WebPay,1,1,0,1
+Sc72302fe2fa0,Wing Bank,1,0,1,1
+S560f89b4e57b,Yape,1,1,0,1
+S2a2a83212153,Yappy,1,1,0,1
+S94f173f4b39c,ZAP,1,1,0,1
+Sfb4a70e1beb4,ZaloPay,1,0,1,1
+S088cc9c6f49b,Zapper,1,0,1,1
+S4497ba648fd9,Zarinpal,1,0,1,1
+S81b959cfba68,Zip Pay,1,0,1,1
+S5dbff7563966,bKash,1,1,0,1
+S5a33d5fbfbc5,bank BCR,1,1,0,1
+S1f12994d9b0c,dLocal,1,1,0,1
+S99aa3e6c42cc,e gov tm,1,0,1,1
+S4d8fcc240109,ePay,1,1,0,1
+Sf54ab403ca1c,iDEAL,1,1,0,1
+Sf63ecf4435b0,myfawry,1,0,1,1
+S813979cbe3f6,Çapar Pay,1,1,0,1

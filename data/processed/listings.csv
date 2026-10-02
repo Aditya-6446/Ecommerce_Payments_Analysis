@@ -1,0 +1,301 @@
+listing_id,market_id,country,iso3,service_id,service,source_name,role,website,review_url,screenshot_url
+M001-1,M001,United States,USA,S9bb3a91fbff8,Apple Pay,Apple Pay,Primary,https://apple.com/apple-pay,https://www.pcmag.com/reviews/apple-pay,https://ibb.co/gTyz7dQ
+M001-2,M001,United States,USA,Scfe1ae6e7f3a,Google Pay,Google Pay,Alternative 1,https://pay.google.com,https://www.pcmag.com/reviews/google-pay,https://ibb.co/bK79xby
+M001-3,M001,United States,USA,Sab8a4f6bb84d,PayPal,PayPal,Alternative 2,https://paypal.com,https://www.cnet.com/reviews/paypal-review/,https://ibb.co/JxbrsQ1
+M002-1,M002,China,CHN,Sd5b72847b212,Alipay,Alipay,Primary,https://alipay.com,https://www.rapyd.net/blog/what-is-alipay/,https://ibb.co/ysHqJN4
+M002-2,M002,China,CHN,Sa39c6414ea1e,WeChat Pay,WeChat Pay,Alternative 1,https://weixin.qq.com,https://www.weareplanet.com/blog/wechat-pay,https://ibb.co/Qk6Z7mw
+M002-3,M002,China,CHN,Sf926e95ae759,UnionPay,UnionPay,Alternative 2,https://unionpayintl.com,https://www.trustpilot.com/review/unionpayintl.com,https://ibb.co/s1VmBC7
+M003-1,M003,Germany,DEU,Sab8a4f6bb84d,PayPal,PayPal,Primary,https://paypal.com,https://www.cnet.com/reviews/paypal-review/,https://ibb.co/JxbrsQ1
+M003-2,M003,Germany,DEU,Sa2e779358d0d,Klarna,Klarna,Alternative 1,https://klarna.com,https://www.trustpilot.com/review/klarna.com,https://ibb.co/0F1XnJ8
+M003-3,M003,Germany,DEU,S02f195c0ad8e,Sofort,Sofort,Alternative 2,https://sofort.com,https://www.trustpilot.com/review/sofort.com,https://ibb.co/pWKHfvh
+M004-1,M004,Japan,JPN,S4d54ee71b475,PayPay,PayPay,Primary,https://paypay.ne.jp,https://www.g2.com/products/paypay/reviews,https://ibb.co/v1Xgpvs
+M004-2,M004,Japan,JPN,Se3a205bb818f,LINE Pay,LINE Pay,Alternative 1,https://pay.line.me,https://www.trustpilot.com/review/linepay.fun,https://ibb.co/hW2py4P
+M004-3,M004,Japan,JPN,S943d2ae40a1e,Rakuten Pay,Rakuten Pay,Alternative 2,https://rakuten.com,https://www.trustpilot.com/review/www.rakuten.com,https://ibb.co/whfG4z9
+M005-1,M005,India,IND,Seb46c4263e56,PhonePe,PhonePe,Primary,https://phonepe.com,https://www.trustpilot.com/review/phonepe.com,https://ibb.co/YfdMZjP
+M005-2,M005,India,IND,Scfe1ae6e7f3a,Google Pay,Google Pay,Alternative 1,https://pay.google.com,https://www.pcmag.com/reviews/google-pay,https://ibb.co/bK79xby
+M005-3,M005,India,IND,Sb2a940b2a2ea,Paytm,Paytm,Alternative 2,https://paytm.com,https://www.trustradius.com/products/paytm/reviews,https://ibb.co/rmv6qP7
+M006-1,M006,United Kingdom,GBR,Sab8a4f6bb84d,PayPal,PayPal,Primary,https://paypal.com,https://www.cnet.com/reviews/paypal-review/,https://ibb.co/JxbrsQ1
+M006-2,M006,United Kingdom,GBR,S9bb3a91fbff8,Apple Pay,Apple Pay,Alternative 1,https://apple.com/apple-pay,https://www.pcmag.com/reviews/apple-pay,https://ibb.co/gTyz7dQ
+M006-3,M006,United Kingdom,GBR,Sdd53271a2e06,Revolut,Revolut,Alternative 2,https://revolut.com,https://www.trustpilot.com/review/www.revolut.com,https://ibb.co/w69Nf7j
+M007-1,M007,France,FRA,S4fe05e7db04b,Paylib,Paylib,Primary,https://paylib.fr,https://www.capterra.in/software/209162/paylib,https://ibb.co/y5vd2g2
+M007-2,M007,France,FRA,S5a28fa1fccb6,Lydia,Lydia,Alternative 1,https://lydia-app.com,https://www.trustpilot.com/review/sumeria.eu?page=8,https://ibb.co/ZmKrjsd
+M007-3,M007,France,FRA,Scfe1ae6e7f3a,Google Pay,Google Pay,Alternative 2,https://pay.google.com,https://www.pcmag.com/reviews/google-pay,https://ibb.co/bK79xby
+M008-1,M008,Italy,ITA,S4a84d0c48b14,Satispay,Satispay,Primary,https://satispay.com,https://www.capterra.com/p/180716/Satispay/,https://ibb.co/5TRdXzx
+M008-2,M008,Italy,ITA,S24ef7ec7e764,Nexi,Nexi,Alternative 1,https://nexi.it,https://www.trustpilot.com/review/www.nexi.it,https://ibb.co/hfv5mB7
+M008-3,M008,Italy,ITA,Sab8a4f6bb84d,PayPal,PayPal,Alternative 2,https://paypal.com,https://www.cnet.com/reviews/paypal-review/,https://ibb.co/JxbrsQ1
+M009-1,M009,Canada,CAN,Sbd194199fe09,Interac,Interac,Primary,https://interac.ca,https://ca.trustpilot.com/review/interac.ca,https://ibb.co/WHXg50m
+M009-2,M009,Canada,CAN,S9bb3a91fbff8,Apple Pay,Apple Pay,Alternative 1,https://apple.com/apple-pay,https://www.pcmag.com/reviews/apple-pay,https://ibb.co/gTyz7dQ
+M009-3,M009,Canada,CAN,Scfe1ae6e7f3a,Google Pay,Google Pay,Alternative 2,https://pay.google.com,https://www.pcmag.com/reviews/google-pay,https://ibb.co/bK79xby
+M010-1,M010,Brazil,BRA,S41b0635bb279,PIX,PIX,Primary,https://mercadopago.com.br,https://www.trustpilot.com/review/www.mercadopago.com.br,https://ibb.co/TKGxSkP
+M010-2,M010,Brazil,BRA,Sfe640272446b,Mercado Pago,Mercado Pago,Alternative 1,https://mercadopago.com,https://www.capterra.com/p/250909/Mercado-Pago/reviews/,https://ibb.co/ngttbxg
+M010-3,M010,Brazil,BRA,Sab8a4f6bb84d,PayPal,PayPal,Alternative 2,https://paypal.com,https://www.cnet.com/reviews/paypal-review/,https://ibb.co/JxbrsQ1
+M011-1,M011,Russia,RUS,Scc9155d76e81,Yandex.Money,Yandex.Money,Primary,https://yoomoney.ru,https://ghanasoccernet.com/in/payment-system-review/yandex-money-payment-system-review/,https://ibb.co/2WxV2yw
+M011-2,M011,Russia,RUS,S78832fd1d06f,Qiwi,Qiwi,Alternative 1,https://qiwi.com,https://www.trustpilot.com/review/qiwi.com,https://ibb.co/yRs9fwW
+M011-3,M011,Russia,RUS,S8e61bf5c793c,WebMoney,WebMoney,Alternative 2,https://webmoney.ru,https://www.trustfinance.com/companies/web-money,https://ibb.co/cr3KgLC
+M012-1,M012,South Korea,KOR,Sc4987750ae1c,KakaoPay,KakaoPay,Primary,https://kakaopay.com,https://www.capterra.in/software/1016162/kakao-pay,https://ibb.co/Dpnnn08
+M012-2,M012,South Korea,KOR,Scd248346b654,Samsung Pay,Samsung Pay,Alternative 1,https://samsung.com/samsung-pay,"https://www.capterra.in/reviews/213917/samsung-pay#:~:text=The%20interface%20is%20good%2C%20simple,a%20great%20option%20to%20value.",https://ibb.co/bW78MJm
+M012-3,M012,South Korea,KOR,S7906b84d8f9d,Naver Pay,Naver Pay,Alternative 2,https://naver.com,https://www.koreatimes.co.kr/www/biz/2025/01/602_297251.html,https://ibb.co/ThR2wFH
+M013-1,M013,Australia,AUS,S032a27679a37,Afterpay,Afterpay,Primary,https://afterpay.com,https://www.capterra.in/reviews/1012480/afterpay,https://ibb.co/2KR5YTV
+M013-2,M013,Australia,AUS,S81b959cfba68,Zip Pay,Zip Pay,Alternative 1,https://zip.co,https://au.trustpilot.com/review/zippay.com.au,https://ibb.co/X43h4JL
+M013-3,M013,Australia,AUS,Sab8a4f6bb84d,PayPal,PayPal,Alternative 2,https://paypal.com,https://www.cnet.com/reviews/paypal-review/,https://ibb.co/JxbrsQ1
+M014-1,M014,Spain,ESP,S09bf90a11ae3,Bizum,Bizum,Primary,https://bizum.es,https://ca.trustpilot.com/review/bizum.es,https://ibb.co/0qHwrxj
+M014-2,M014,Spain,ESP,Sab8a4f6bb84d,PayPal,PayPal,Alternative 1,https://paypal.com,https://www.cnet.com/reviews/paypal-review/,https://ibb.co/JxbrsQ1
+M014-3,M014,Spain,ESP,S9bb3a91fbff8,Apple Pay,Apple Pay,Alternative 2,https://apple.com/apple-pay/,https://www.pcmag.com/reviews/apple-pay,https://ibb.co/gTyz7dQ
+M015-1,M015,Mexico,MEX,Scd248346b654,Samsung Pay,Samsung Pay,Primary,https://samsung.com/samsung-pay,"https://www.capterra.in/reviews/213917/samsung-pay#:~:text=The%20interface%20is%20good%2C%20simple,a%20great%20option%20to%20value.",https://ibb.co/gWdX1YC
+M015-2,M015,Mexico,MEX,Sfe640272446b,Mercado Pago,Mercado Pago,Alternative 1,https://mercadopago.com,https://www.capterra.com/p/250909/Mercado-Pago/reviews/,https://ibb.co/ngttbxg
+M015-3,M015,Mexico,MEX,Sab8a4f6bb84d,PayPal,PayPal,Alternative 2,https://paypal.com,https://www.cnet.com/reviews/paypal-review/,https://ibb.co/JxbrsQ1
+M016-1,M016,Indonesia,IDN,S683e3175233e,OVO,OVO,Primary,https://ovo.id,https://ca.trustpilot.com/review/ovo.id,https://ibb.co/zFJkZrL
+M016-2,M016,Indonesia,IDN,S177eb549798b,GoPay,GoPay,Alternative 1,https://gopay.co.id,https://apps.apple.com/my/app/gopay-transfer-pulsa-bills/id6446321594,https://ibb.co/Nm42Mtb
+M016-3,M016,Indonesia,IDN,S39dd0861d128,DANA,DANA,Alternative 2,https://dana.id,https://slashdot.org/software/p/DANA/,https://ibb.co/tCp8Z6B
+M017-1,M017,Turkey,TUR,S12ca66653f33,BKM Express,BKM Express,Primary,https://bkm.com.tr,https://www.appbrain.com/appstore/bkm-express/ios-657408050,https://ibb.co/26Q3h1Y
+M017-2,M017,Turkey,TUR,Sab8a4f6bb84d,PayPal,PayPal,Alternative 1,https://paypal.com,https://www.cnet.com/reviews/paypal-review/,https://ibb.co/JxbrsQ1
+M017-3,M017,Turkey,TUR,Sc6f881bfe8f5,Ininal,Ininal,Alternative 2,https://ininal.com,https://www.trustpilot.com/review/www.ininal.com,https://ibb.co/dWMPfbM
+M018-1,M018,Netherlands,NLD,Sf54ab403ca1c,iDEAL,iDEAL,Primary,https://ideal.nl,https://ca.trustpilot.com/review/in3.ideal.nl,https://ibb.co/0B8z79s
+M018-2,M018,Netherlands,NLD,Sab8a4f6bb84d,PayPal,PayPal,Alternative 1,https://paypal.com,https://www.cnet.com/reviews/paypal-review/,https://ibb.co/JxbrsQ1
+M018-3,M018,Netherlands,NLD,S832c3b1ba488,SEPA,SEPA,Alternative 2,https://ecb.europa.eu,https://www.gtreview.com/magazine/nov-dec-2013/sepa-review-race-to-the-finish/,https://ibb.co/tM6npKg
+M019-1,M019,Saudi Arabia,SAU,Sbc7ff7a28899,STC Pay,STC Pay,Primary,https://stcpay.com.sa,https://ca.trustpilot.com/review/www.stc.com.sa,https://ibb.co/vjv4gDg
+M019-2,M019,Saudi Arabia,SAU,S9bb3a91fbff8,Apple Pay,Apple Pay,Alternative 1,https://apple.com/apple-pay,https://www.pcmag.com/reviews/apple-pay,https://ibb.co/gTyz7dQ
+M019-3,M019,Saudi Arabia,SAU,Sab8a4f6bb84d,PayPal,PayPal,Alternative 2,https://paypal.com,https://www.cnet.com/reviews/paypal-review/,https://ibb.co/JxbrsQ1
+M020-1,M020,Switzerland,CHE,S4b4db0817515,TWINT,TWINT,Primary,https://twint.ch,https://ca.trustpilot.com/review/www.twint.ch,https://ibb.co/Gvb7cJG
+M020-2,M020,Switzerland,CHE,Sab8a4f6bb84d,PayPal,PayPal,Alternative 1,https://paypal.com,https://www.cnet.com/reviews/paypal-review/,https://ibb.co/JxbrsQ1
+M020-3,M020,Switzerland,CHE,S9bb3a91fbff8,Apple Pay,Apple Pay,Alternative 2,https://apple.com/apple-pay/,https://www.pcmag.com/reviews/apple-pay,https://ibb.co/gTyz7dQ
+M021-1,M021,Poland,POL,S354add2d89a1,BLIK,BLIK,Primary,https://blik.com,https://ca.trustpilot.com/review/blik.com,https://ibb.co/KGVH9B2
+M021-2,M021,Poland,POL,Sdd53271a2e06,Revolut,Revolut,Alternative 1,https://revolut.com,https://www.trustpilot.com/review/www.revolut.com,https://ibb.co/xXdgkv4
+M021-3,M021,Poland,POL,S97aaa5725e62,PayU,PayU,Alternative 2,https://payu.com,"https://www.capterra.in/reviews/201075/payu#:~:text=PayU%20has%20an%20overall%20rating,47%20user%20reviews%20on%20Capterra.",https://ibb.co/mBSmSGs
+M022-1,M022,Taiwan,TWN,Se3a205bb818f,LINE Pay,Line Pay,Primary,https://linepay.com,https://tw.forumosa.com/t/line-pay-and-other-mobile-phone-payment-options/171901,https://ibb.co/BZyQ4TW
+M022-2,M022,Taiwan,TWN,Sb0c9e4b4309e,JkoPay,JkoPay,Alternative 1,https://jkopay.com,https://trustburn.com/reviews/jkopay-co-ltd,https://ibb.co/8DmdVKY
+M022-3,M022,Taiwan,TWN,S9bb3a91fbff8,Apple Pay,Apple Pay,Alternative 2,https://apple.com/apple-pay/,https://www.pcmag.com/reviews/apple-pay,https://ibb.co/gTyz7dQ
+M023-1,M023,Belgium,BEL,S84e7c82fea0f,Bancontact,Bancontact,Primary,https://bancontact.com,https://slashdot.org/software/p/Bancontact/,https://ibb.co/Pxpc0FR
+M023-2,M023,Belgium,BEL,S658e993fb9d6,Payconiq,Payconiq,Alternative 1,https://payconiq.com,https://www.trustpilot.com/review/payconiq.com,https://ibb.co/9vqY4mZ
+M023-3,M023,Belgium,BEL,Sab8a4f6bb84d,PayPal,PayPal,Alternative 2,https://paypal.com,https://www.cnet.com/reviews/paypal-review/,https://ibb.co/JxbrsQ1
+M024-1,M024,Sweden,SWE,S1e73623015d3,Swish,Swish,Primary,https://swish.nu,https://ca.trustpilot.com/review/swish.nu,https://ibb.co/BnNc8P1
+M024-2,M024,Sweden,SWE,Sa2e779358d0d,Klarna,Klarna,Alternative 1,https://klarna.com,https://www.trustpilot.com/review/klarna.com,https://ibb.co/0F1XnJ8
+M024-3,M024,Sweden,SWE,Sab8a4f6bb84d,PayPal,PayPal,Alternative 2,https://paypal.com,https://www.cnet.com/reviews/paypal-review/,https://ibb.co/JxbrsQ1
+M025-1,M025,Argentina,ARG,Sfe640272446b,Mercado Pago,Mercado Pago,Primary,https://mercadopago.com,https://ca.trustpilot.com/review/mercadopago.com,https://ibb.co/0MLsspC
+M025-2,M025,Argentina,ARG,Sb4047e184273,Naranja X,Naranja X,Alternative 1,https://naranjax.com,https://naranja-x.es.aptoide.com/app,https://ibb.co/ZLTSrdD
+M025-3,M025,Argentina,ARG,Sa76287c409c4,Ualá,Ualá,Alternative 2,https://uala.com,https://www.trustpilot.com/review/uala.com.ar,https://ibb.co/N7N5KkX
+M026-1,M026,Ireland,IRL,Sdd53271a2e06,Revolut,Revolut,Primary,https://revolut.com,https://www.trustpilot.com/review/www.revolut.com,https://ibb.co/xXdgkv4
+M026-2,M026,Ireland,IRL,Sab8a4f6bb84d,PayPal,PayPal,Alternative 1,https://paypal.com,https://www.cnet.com/reviews/paypal-review/,https://ibb.co/JxbrsQ1
+M026-3,M026,Ireland,IRL,Sb86ee665f29a,N26,N26,Alternative 2,https://n26.com,https://www.trustpilot.com/review/n26.com,https://ibb.co/MVLCwgs
+M027-1,M027,United Arab Emirates,ARE,S9bb3a91fbff8,Apple Pay,Apple Pay,Primary,https://apple.com/apple-pay,https://www.pcmag.com/reviews/apple-pay,https://ibb.co/gTyz7dQ
+M027-2,M027,United Arab Emirates,ARE,Scd248346b654,Samsung Pay,Samsung Pay,Alternative 1,https://samsung.com/samsung-pay,"https://www.capterra.in/reviews/213917/samsung-pay#:~:text=The%20interface%20is%20good%2C%20simple,a%20great%20option%20to%20value.",https://ibb.co/bW78MJm
+M027-3,M027,United Arab Emirates,ARE,S22f85bf6fa63,Noon Pay,Noon Pay,Alternative 2,https://noon.com,https://au.trustpilot.com/review/noon.com?page=73,https://ibb.co/rdMbBRG
+M028-1,M028,Singapore,SGP,S09996930be63,GrabPay,GrabPay,Primary,https://grab.com,https://ca.trustpilot.com/review/grab.com,https://ibb.co/q10Tf69
+M028-2,M028,Singapore,SGP,S5c5af06729d3,PayNow,PayNow,Alternative 1,https://abs.org.sg/consumer-banking/pay-now,https://www.trustpilot.com/review/paynow-app.com,https://ibb.co/HFNHcw3
+M028-3,M028,Singapore,SGP,Sc953363739d2,DBS PayLah,DBS PayLah,Alternative 2,https://dbs.com.sg,https://www.trustpilot.com/review/dbs.com?page=3,https://ibb.co/kq0fZ1P
+M029-1,M029,Austria,AUT,Seecadce162c6,MobilePay,Mobile Pay,Primary,https://mobilepay.dk,https://www.g2.com/products/paypay/reviews,https://ibb.co/hc51xx8
+M029-2,M029,Austria,AUT,Sab8a4f6bb84d,PayPal,PayPal,Alternative 1,https://paypal.com,https://www.cnet.com/reviews/paypal-review/,https://ibb.co/JxbrsQ1
+M029-3,M029,Austria,AUT,Sa2e779358d0d,Klarna,Klarna,Alternative 2,https://klarna.com,https://www.capterra.com/p/230509/Klarna/reviews/,https://ibb.co/Y75KJmC
+M030-1,M030,Israel,ISR,S1c8aa3a6466b,Payoneer,Payoneer,Primary,https://payoneer.com,https://ca.trustpilot.com/review/www.payoneer.com,https://ibb.co/rf0gZn3
+M030-2,M030,Israel,ISR,Se1acedc90190,BitPay,BitPay,Alternative 1,https://bitpay.com,https://www.trustpilot.com/review/bitpay.com?page=3,https://ibb.co/NSqLXtn
+M030-3,M030,Israel,ISR,Sf2bcbe5abd94,Isracard,Isracard,Alternative 2,https://isracard.co.il,https://www.glassdoor.co.in/Reviews/Isracard-Reviews-E553776.htm,https://ibb.co/CBVNxxd
+M031-1,M031,Thailand,THA,S67799a5cdcb4,Rabbit Line Pay,Rabbit Line Pay,Primary,https://rabbit.co.th,https://payatlas.com/company/rabbit-line-pay/729#company-about,https://ibb.co/PWXrc8V
+M031-2,M031,Thailand,THA,S06780a7a437a,TrueMoney,TrueMoney,Alternative 1,https://truemoney.com,https://play.google.com/store/apps/details?id=th.co.truemoney.wallet&hl=en-US,https://ibb.co/zJqzsYv
+M031-3,M031,Thailand,THA,Sd5b72847b212,Alipay,Alipay,Alternative 2,https://alipay.com,https://www.rapyd.net/blog/what-is-alipay/,https://ibb.co/ysHqJN4
+M032-1,M032,Philippines,PHL,Seffe340b87b3,GCash,GCash,Primary,https://gcash.com,https://ca.trustpilot.com/review/www.gcash.com,https://ibb.co/kJ86hWM
+M032-2,M032,Philippines,PHL,Scc2cd9293700,PayMaya,PayMaya,Alternative 1,https://paymaya.com,https://www.trustpilot.com/review/paymaya.com,https://ibb.co/HrbVyr9
+M032-3,M032,Philippines,PHL,S09996930be63,GrabPay,GrabPay,Alternative 2,https://grab.com,https://vulcanpost.com/666509/grabpay-review-e-wallet-singapore/,https://ibb.co/kHBvqQs
+M033-1,M033,Vietnam,VNM,S4f61b35afbac,MoMo,MoMo,Primary,https://momo.vn,https://en.vietnamplus.vn/momo-remains-most-popular-e-wallet-in-vietnam-post279729.vnp,https://ibb.co/VLSS3ph
+M033-2,M033,Vietnam,VNM,Sfb4a70e1beb4,ZaloPay,ZaloPay,Alternative 1,https://zalopay.vn,https://apps.apple.com/vn/app/zalopay-thanh-to%C3%A1n-t%C3%ADch-th%C6%B0%E1%BB%9Fng/id1112407590?see-all=reviews,https://ibb.co/xJR2WPG
+M033-3,M033,Vietnam,VNM,S556d78f4690a,Viettel Pay,Viettel Pay,Alternative 2,https://viettelpay.vn,https://www.trustpilot.com/review/viettel.com.vn,https://ibb.co/mF7W04Y
+M034-1,M034,Norway,NOR,S8c98ead1dc6f,Vipps,Vipps,Primary,https://vipps.no,https://ca.trustpilot.com/review/vipps.no,https://ibb.co/f0kgQJ4
+M034-2,M034,Norway,NOR,Sab8a4f6bb84d,PayPal,PayPal,Alternative 1,https://paypal.com,https://www.cnet.com/reviews/paypal-review/,https://ibb.co/JxbrsQ1
+M034-3,M034,Norway,NOR,S9bb3a91fbff8,Apple Pay,Apple Pay,Alternative 2,https://apple.com/apple-pay/,https://www.pcmag.com/reviews/apple-pay,https://ibb.co/gTyz7dQ
+M035-1,M035,Malaysia,MYS,Sda053fa8064d,Touch 'n Go,Touch 'n Go,Primary,https://touchngo.com.my,https://ca.trustpilot.com/review/www.touchngo.com.my,https://ibb.co/C9m3MGY
+M035-2,M035,Malaysia,MYS,S2d0bec069274,CIMB OCTO MY,CIMB OCTO MY,Alternative 1,https://cimb.com.my,https://appshunter.io/ios/app/1591184221,https://ibb.co/DMn8vH8
+M035-3,M035,Malaysia,MYS,S0d791a0a6f01,Boost,Boost,Alternative 2,https://myboost.co/,https://ie.trustpilot.com/review/www.boostmobile.com?page=27,https://ibb.co/jrvzjy3
+M036-1,M036,Iran,IRN,S1bd7750deb16,Shetab,Shetab,Primary,https://shetab.com,https://360techblogs.blogspot.com/2025/01/review-of-shetabcom-detailed-look-at.html,https://ibb.co/6812V6T
+M036-2,M036,Iran,IRN,S4497ba648fd9,Zarinpal,Zarinpal,Alternative 1,https://zarinpal.com,https://www.glassdoor.co.in/Reviews/ZarinPal-Reviews-E4994915.htm,https://ibb.co/zRpMc5f
+M036-3,M036,Iran,IRN,Sd2cb4f99541e,Pay.ir,Pay.ir,Alternative 2,https://pay.ir,https://360techblogs.blogspot.com/2025/01/review-of-payir-comprehensive-overview.html,https://ibb.co/ZRj0tYd
+M037-1,M037,Bangladesh,BGD,S5dbff7563966,bKash,bKash,Primary,https://bkash.com,https://ca.trustpilot.com/review/www.bkash.com,https://ibb.co/x1QBytF
+M037-2,M037,Bangladesh,BGD,S1eb67b986588,Nagad,Nagad,Alternative 1,https://nagad.com.bd,https://www.trustpilot.com/review/nagad.com.bd,https://ibb.co/HgbpYb0
+M037-3,M037,Bangladesh,BGD,Sd40a5aca994e,Rocket,Rocket,Alternative 2,https://dutchbanglabank.com,https://ie.trustpilot.com/review/dutchbanglabank.com,https://ibb.co/RPR29dS
+M038-1,M038,Denmark,DNK,Seecadce162c6,MobilePay,MobilePay,Primary,https://mobilepay.dk,https://ca.trustpilot.com/review/mobilepay.dk,https://ibb.co/hc51xx8
+M038-2,M038,Denmark,DNK,S9bb3a91fbff8,Apple Pay,Apple Pay,Alternative 1,https://apple.com/apple-pay,https://www.pcmag.com/reviews/apple-pay,https://ibb.co/gTyz7dQ
+M038-3,M038,Denmark,DNK,Scfe1ae6e7f3a,Google Pay,Goggle Pay,Alternative 2,https://pay.google.com,https://www.pcmag.com/reviews/google-pay,https://ibb.co/bK79xby
+M039-1,M039,Hong Kong,HKG,Sd5b72847b212,Alipay,Alipay,Primary,https://alipay.com,https://www.rapyd.net/blog/what-is-alipay/,https://ibb.co/ysHqJN4
+M039-2,M039,Hong Kong,HKG,Sa39c6414ea1e,WeChat Pay,WeChat Pay,Alternative 1,https://weixin.qq.com,https://www.weareplanet.com/blog/wechat-pay,https://ibb.co/Qk6Z7mw
+M039-3,M039,Hong Kong,HKG,Sa7c7b3a28a61,Octopus,Octopus,Alternative 2,https://octopus.com.hk,https://www.reddit.com/r/HongKong/comments/18u82k4/i_love_octopus_cards/,https://ibb.co/LS8BSkZ
+M040-1,M040,Colombia,COL,Sb059c7cc919f,Nequi,Nequi,Primary,https://nequi.com.co,https://ca.trustpilot.com/review/www.nequi.com.co,https://ibb.co/j4zmMP9
+M040-2,M040,Colombia,COL,S49b7ccf946a7,Daviplata,Daviplata,Alternative 1,https://daviplata.com,https://play.google.com/store/apps/details?id=com.davivienda.daviplataapp&hl=en-US,https://ibb.co/5vjfFYb
+M040-3,M040,Colombia,COL,S8370f96e9d93,Bancolombia,Bancolombia,Alternative 2,https://bancolombia.com,https://www.trustpilot.com/review/www.bancolombia.com,https://ibb.co/Fm4KC2P
+M041-1,M041,South Africa,ZAF,S712542eb0998,SnapScan,SnapScan,Primary,https://snapscan.co.za,https://www.hellopeter.com/snapscan,https://ibb.co/KX04HQm
+M041-2,M041,South Africa,ZAF,S088cc9c6f49b,Zapper,Zapper,Alternative 1,https://zapper.com,https://www.hellopeter.com/zapper,https://ibb.co/ChdBfRK
+M041-3,M041,South Africa,ZAF,Sab8a4f6bb84d,PayPal,PayPal,Alternative 2,https://paypal.com,https://www.cnet.com/reviews/paypal-review/,https://ibb.co/JxbrsQ1
+M042-1,M042,Romania,ROU,Seecadce162c6,MobilePay,MobilePay,Primary,https://mobilepay.dk,https://ca.trustpilot.com/review/mobilepay.dk,https://ibb.co/hc51xx8
+M042-2,M042,Romania,ROU,S97aaa5725e62,PayU,PayU,Alternative 1,https://payu.com,https://www.g2.com/products/payu/reviews#reviews,https://ibb.co/Q8YT8gD
+M042-3,M042,Romania,ROU,Sdd53271a2e06,Revolut,Revolut,Alternative 2,https://revolut.com,https://www.trustpilot.com/review/www.revolut.com,https://ibb.co/w69Nf7j
+M043-1,M043,Egypt,EGY,Se9bcb76e743e,Fawry,Fawry,Primary,https://fawry.com,https://justuseapp.com/en/app/1462911630/myfawry/reviews,https://ibb.co/tHCRByZ
+M043-2,M043,Egypt,EGY,Sf63ecf4435b0,myfawry,myfawry,Alternative 1,https://fawry.com,https://appshunter.io/ios/app/1462911630,https://ibb.co/806vTRx
+M043-3,M043,Egypt,EGY,See286ba33708,Aman,Aman,Alternative 2,https://aman.eg,https://support.paytabs.com/en/support/solutions/articles/60000818129-aman-activation-and-workflow-user-experience,https://ibb.co/8zvqCxg
+M044-1,M044,Pakistan,PAK,Sa0b41fabd1f4,JazzCash,JazzCash,Primary,https://jazzcash.com.pk,https://ca.trustpilot.com/review/jazzcash.com.pk,https://ibb.co/Qb0sCXK
+M044-2,M044,Pakistan,PAK,S8a2d4c009231,EasyPaisa,EasyPaisa,Alternative 1,https://easypaisa.com.pk,https://www.trustpilot.com/review/easypaisa.com,https://ibb.co/VJX6vSz
+M044-3,M044,Pakistan,PAK,Sab8a4f6bb84d,PayPal,PayPal,Alternative 2,https://paypal.com,https://www.cnet.com/reviews/paypal-review/,https://ibb.co/JxbrsQ1
+M045-1,M045,Chile,CHL,S722f7eba24a7,WebPay,WebPay,Primary,https://webpay.cl,https://saasguro.com/products/webpay,https://ibb.co/HPRXSJf
+M045-2,M045,Chile,CHL,Se2d8004648db,Transbank,Transbank,Alternative 1,https://transbank.cl,https://appshunter.io/ios/app/1432114499,https://ibb.co/4tDfP5z
+M045-3,M045,Chile,CHL,S888804c60126,Khipu,Khipu,Alternative 2,https://khipu.com,https://www.nuvei.com/apm/khipu,https://ibb.co/JCKtYhw
+M046-1,M046,Czech Republic,CZE,S177eb549798b,GoPay,GoPay,Primary,https://gopay.co.id,https://duwitmu.com/tabungan/gopay-aplikasi-review-jujur-cara-daftar-top-up,https://ibb.co/BZ7dZNg
+M046-2,M046,Czech Republic,CZE,Sab8a4f6bb84d,PayPal,PayPal,Alternative 1,https://paypal.com,https://www.cnet.com/reviews/paypal-review/,https://ibb.co/JxbrsQ1
+M046-3,M046,Czech Republic,CZE,S9bb3a91fbff8,Apple Pay,Apple Pay,Alternative 2,https://apple.com/apple-pay/,https://www.pcmag.com/reviews/apple-pay,https://ibb.co/gTyz7dQ
+M047-1,M047,Finland,FIN,Seecadce162c6,MobilePay,MobilePay,Primary,https://mobilepay.dk,https://ca.trustpilot.com/review/mobilepay.dk,https://ibb.co/hc51xx8
+M047-2,M047,Finland,FIN,S3e68d4365d41,Siirto,Siirto,Alternative 1,https://siirto.fi,https://appshunter.io/ios/app/1156811861,https://ibb.co/fqqfL9m
+M047-3,M047,Finland,FIN,Sab8a4f6bb84d,PayPal,PayPal,Alternative 2,https://paypal.com,https://www.cnet.com/reviews/paypal-review/,https://ibb.co/JxbrsQ1
+M048-1,M048,Portugal,PRT,Sa70a35b72c22,MB Way,MB Way,Primary,https://mbway.pt,https://justuseapp.com/en/app/918126133/mb-way/reviews,https://ibb.co/dGMZHCV
+M048-2,M048,Portugal,PRT,Sab8a4f6bb84d,PayPal,PayPal,Alternative 1,https://paypal.com,https://www.cnet.com/reviews/paypal-review/,https://ibb.co/JxbrsQ1
+M048-3,M048,Portugal,PRT,Sdd53271a2e06,Revolut,Revolut,Alternative 2,https://revolut.com,https://www.trustpilot.com/review/www.revolut.com,https://ibb.co/w69Nf7j
+M049-1,M049,Hungary,HUN,S19ce229ca0ea,SimplePay,SimplePay,Primary,https://simplepay.com,https://www.scam-detector.com/validator/simplepay-hu-review/,https://ibb.co/ZJX3Z5C
+M049-2,M049,Hungary,HUN,S9f4c0a6f6150,Barion,Barion,Alternative 1,https://barion.com,https://appshunter.io/ios/app/896714923,https://ibb.co/VCKH0Q3
+M049-3,M049,Hungary,HUN,Sab8a4f6bb84d,PayPal,PayPal,Alternative 2,https://paypal.com,https://www.cnet.com/reviews/paypal-review/,https://ibb.co/JxbrsQ1
+M050-1,M050,Kazakhstan,KAZ,S355387169087,Kaspi.kz,Kaspi.kz,Primary,https://kaspi.kz,https://ca.trustpilot.com/review/kaspi.kz,https://ibb.co/Kb1LWk0
+M050-2,M050,Kazakhstan,KAZ,S88853e062e22,Halyk Bank,Halyk Bank,Alternative 1,https://halykbank.kz,https://appshunter.io/ios/app/1496747464,https://ibb.co/ChMkvtk
+M050-3,M050,Kazakhstan,KAZ,S1b96cf56a09b,Paybox,Paybox,Alternative 2,https://paybox.ru,https://www.crunchbase.com/organization/paybox-money,https://ibb.co/9vdfpwR
+M051-1,M051,Peru,PER,S560f89b4e57b,Yape,Yape,Primary,https://yape.com.pe,https://www.appbrain.com/app/yape/com.bcp.innovacxion.yapeapp,https://ibb.co/8mfYBFK
+M051-2,M051,Peru,PER,S5e1d15a80a51,Banca Móvil BCP,Banca Móvil BCP,Alternative 1,https://www.pichincha.com/banca-movil,https://appshunter.io/ios/app/777961079,https://ibb.co/ww6stk3
+M051-3,M051,Peru,PER,S0f07802df56d,Niubiz,Niubiz,Alternative 2,https://niubiz.com.pe,https://www.scam-detector.com/validator/niubiz-com-review/,https://ibb.co/wWj5LRB
+M052-1,M052,Iraq,IRQ,Sfb1c3e32ff7c,Zain Cash,Zain Cash,Primary,https://zaincash.iq,https://www.appbrain.com/app/zaincash-%D8%B2%D9%8A%D9%86-%D9%83%D8%A7%D8%B4/mobi.foo.zaincash,https://ibb.co/71CFmPF
+M052-2,M052,Iraq,IRQ,S87bb80aa218c,Qi Services,Qi Services,Alternative 1,https://qi.iq/en/digital-zone,https://qi-services.en.softonic.com/android,https://ibb.co/93j3qFM
+M052-3,M052,Iraq,IRQ,S33e6460b0614,FastPay,FastPay,Alternative 2,https://fast-pay.iq,https://www.trustpilot.com/review/fast-pay.cash,https://ibb.co/FBzJMyS
+M053-1,M053,Greece,GRC,Seff765f55a78,Viva Wallet,Viva Wallet,Primary,https://vivawallet.com,https://ca.trustpilot.com/review/viva.com,https://ibb.co/GJykLVm
+M053-2,M053,Greece,GRC,Sab8a4f6bb84d,PayPal,Paypal,Alternative 1,https://paypal.com,https://www.cnet.com/reviews/paypal-review/,https://ibb.co/JxbrsQ1
+M053-3,M053,Greece,GRC,Sdd53271a2e06,Revolut,Revolut,Alternative 2,https://revolut.com,https://www.trustpilot.com/review/www.revolut.com,https://ibb.co/w69Nf7j
+M054-1,M054,Algeria,DZA,S3bf830ec58e4,Barid Bank,Barid Bank,Primary,https://albaridbank.ma/fr/nos-solutions/barid-bank-mobile,https://justuseapp.com/en/app/720775151/barid-bank-mobile/reviews#google_vignette,https://ibb.co/j6c78Hq
+M054-2,M054,Algeria,DZA,Sa9314df8e7a9,CIB,CIB,Alternative 1,https://cibeg.com,https://play.google.com/store/apps/details/CIB_Mobile_Banking_App?id=com.cibeg.ddc1.digitalbanking.live&hl=en-US,https://ibb.co/d6RkPPC
+M054-3,M054,Algeria,DZA,Sb776149d47e3,CashAddress,CashAddress,Alternative 2,https://cashaddress.org,https://www.reddit.com/r/btc/comments/9x1mkh/another_scam_wallet_cashaddress_paper_wallet/?rdt=51494,https://ibb.co/93hdjsH
+M055-1,M055,New Zealand,NZL,S9bb3a91fbff8,Apple Pay,Apple Pay,Primary,https://apple.com/apple-pay,https://www.pcmag.com/reviews/apple-pay,https://ibb.co/gTyz7dQ
+M055-2,M055,New Zealand,NZL,S032a27679a37,Afterpay,Afterpay,Alternative 1,https://afterpay.com,https://appshunter.io/ios/app/1401019110,https://ibb.co/hW7by4s
+M055-3,M055,New Zealand,NZL,Sab8a4f6bb84d,PayPal,PayPal,Alternative 2,https://paypal.com,https://www.cnet.com/reviews/paypal-review/,https://ibb.co/JxbrsQ1
+M056-1,M056,Qatar,QAT,S6de18e00d6b3,Ooredoo Money,Ooredoo Money,Primary,https://ooredoo.qa/web/en/ooredoo-money/,https://download.cnet.com/ooredoo-money/3000-2057_4-77112319.html,https://ibb.co/F8JL2YR
+M056-2,M056,Qatar,QAT,Sf1624fcc63b6,Binance,Binance,Alternative 1,https://binance.com,https://www.hedgewithcrypto.com/binance-review/,https://ibb.co/gjnVjnP
+M056-3,M056,Qatar,QAT,S0dbf7f12f197,CBQ Mobile,CBQ Mobile,Alternative 2,https://cbq.qa,https://appshunter.io/ios/app/388934616,https://ibb.co/Drn1xm1
+M057-1,M057,Ethiopia,ETH,S721a27a1aa5e,M-Birr,M-Birr,Primary,https://m-birr.com,https://www.eib.org/en/publications/interactive/the-eib-outside-the-eu-2017/m-birr-realising-the-potential-of-mobile-payments/,https://ibb.co/JmC0w03
+M057-2,M057,Ethiopia,ETH,S1c8aa3a6466b,Payoneer,Payoneer,Alternative 1,https://payoneer.com,https://ca.trustpilot.com/review/www.payoneer.com,https://ibb.co/yWDKwwj
+M057-3,M057,Ethiopia,ETH,Sfc8e27f609f4,Amole,Amole,Alternative 2,https://dashenbanksc.com/amole-payment-services/,https://play.google.com/store/apps/details?id=com.cr2.dashenamole&hl=en_IN,https://ibb.co/V2BB8p4
+M058-1,M058,Nigeria,NGA,S8421e6a3d5ee,Paystack,Paystack,Primary,https://paystack.com,https://ca.trustpilot.com/review/paystack.com,https://ibb.co/YXP2STN
+M058-2,M058,Nigeria,NGA,S419c017fec88,Flutterwave,Flutterwave,Alternative 1,https://flutterwave.com,https://appshunter.io/ios/app/1534897339,https://ibb.co/f0hSmtw
+M058-3,M058,Nigeria,NGA,Sf465788dea89,Moniepoint,Moniepoint,Alternative 2,https://moniepoint.com,https://www.trustpilot.com/review/moniepoint.com,https://ibb.co/C24mNdy
+M059-1,M059,Ukraine,UKR,Safbffd978275,PrivatBank,PrivatBank,Primary,https://privatbank.ua,https://ca.trustpilot.com/review/privatbank.ua,https://ibb.co/tq8wXpM
+M059-2,M059,Ukraine,UKR,S9722e8c42d66,Monobank,Monobank,Alternative 1,https://monobank.ua,https://appshunter.io/ios/app/1287005205,https://ibb.co/pvgRWj3
+M059-3,M059,Ukraine,UKR,S84287a10e6fb,PUMB,PUMB,Alternative 2,https://pumb.ua,https://www.trustpilot.com/review/pumb.ua,https://ibb.co/KsJsXZt
+M060-1,M060,Morocco,MAR,S6f21be3f4238,Wafacash,Wafacash,Primary,https://wafacash.com,https://appshunter.io/ios/app/1505080908,https://ibb.co/9w0v9RS
+M060-2,M060,Morocco,MAR,Sb3b4252796e8,CIH Mobile,CIH Mobile,Alternative 1,https://cihbank.ma,https://appshunter.io/ios/app/664637221,https://ibb.co/wZnNg5C
+M060-3,M060,Morocco,MAR,Sa35b4fd24390,Cash Plus,Cash Plus,Alternative 2,https://cashplus.ma,https://www.trustpilot.com/review/cashplus.ma,https://ibb.co/1dKy8n3
+M061-1,M061,Kuwait,KWT,Sc43969a3bafd,KNET,KNET,Primary,https://knet.com.kw,https://support.tap.company/en/support/solutions/articles/153000140240-what-is-knet-how-can-i-accept-knet-on-my-website-or-mobile-app-,https://ibb.co/JqNnP70
+M061-2,M061,Kuwait,KWT,Sab8a4f6bb84d,PayPal,PayPal,Alternative 1,https://paypal.com,https://www.cnet.com/reviews/paypal-review/,https://ibb.co/JxbrsQ1
+M061-3,M061,Kuwait,KWT,S9bb3a91fbff8,Apple Pay,Apple Pay,Alternative 2,https://apple.com/apple-pay/,https://www.pcmag.com/reviews/apple-pay,https://ibb.co/gTyz7dQ
+M062-1,M062,Cuba,CUB,Sb1b70335837f,Transfermóvil,Transfermóvil,Primary,https://etecsa.cu/en/entrepreneurs/transfermovil,https://transfermovil.en.softonic.com/android,https://website not accessable
+M062-2,M062,Cuba,CUB,Sdc19504a356a,EnZona,EnZona,Alternative 1,https://www.enzona.net,https://www.xetid.cu/en/productos/enzona,https://ibb.co/L9xMkt4
+M062-3,M062,Cuba,CUB,S716188579105,Moneda U,Moneda U,Alternative 2,https://somosmoneda.app,https://360techblogs.blogspot.com/2025/01/review-of-somos-moneda-your-trusted.html,https://ibb.co/hH2GtgF
+M063-1,M063,Slovakia,SVK,Sdc665e6c8a2c,VIAMO,VIAMO,Primary,https://viamo.io,https://appshunter.io/ios/app/644270145,https://ibb.co/Fq9t0rp
+M063-2,M063,Slovakia,SVK,Sab8a4f6bb84d,PayPal,PayPal,Alternative 1,https://paypal.com,https://www.cnet.com/reviews/paypal-review/,https://ibb.co/JxbrsQ1
+M063-3,M063,Slovakia,SVK,S9bb3a91fbff8,Apple Pay,Apple Pay,Alternative 2,https://apple.com/apple-pay/,https://www.pcmag.com/reviews/apple-pay,https://ibb.co/gTyz7dQ
+M064-1,M064,Dominican Republic,DOM,S30438e444cb9,Orange Money,Orange Money,Primary,https://orange.com,https://africanreview.com/finance/banking-a-finance/orange-money-fintech-is-proving-a-game-changer-in-africa,https://ibb.co/0MptPcg
+M064-2,M064,Dominican Republic,DOM,S2f77e8e6b5c1,Billet,Billet,Alternative 1,https://billet.do/,https://play.google.com/store/apps/details?id=com.billet.mpos&hl=en-US,https://ibb.co/h2qNZS8
+M064-3,M064,Dominican Republic,DOM,Sab8a4f6bb84d,PayPal,PayPal,Alternative 2,https://paypal.com,https://www.cnet.com/reviews/paypal-review/,https://ibb.co/JxbrsQ1
+M065-1,M065,Uzbekistan,UZB,S95ba4ed9329f,Click,Click,Primary,https://click.uz,https://ca.trustpilot.com/review/click.uz,https://ibb.co/qknvps8
+M065-2,M065,Uzbekistan,UZB,Sf06f0269cf5d,Payme,Payme,Alternative 1,https://payme.uz,https://play.google.com/store/apps/details?id=uz.dida.payme&hl=ru,https://ibb.co/QmLNCR3
+M065-3,M065,Uzbekistan,UZB,S6e23756c3c9b,UzCard,UzCard,Alternative 2,https://uzcard.uz,https://360techblogs.blogspot.com/2025/01/review-of-uzcard-naked-new-standard-in.html,https://ibb.co/k9p7NDP
+M066-1,M066,Bulgaria,BGR,S4d8fcc240109,ePay,ePay,Primary,https://epay.com,https://ca.trustpilot.com/review/epay.com,https://ibb.co/6084mxk
+M066-2,M066,Bulgaria,BGR,Sab8a4f6bb84d,PayPal,PayPal,Alternative 1,https://paypal.com,https://www.cnet.com/reviews/paypal-review/,https://ibb.co/JxbrsQ1
+M066-3,M066,Bulgaria,BGR,Sf9b71269f6ff,EasyPay,EasyPay,Alternative 2,https://easypay.ua,https://www.trustpilot.com/review/easypay.pt,https://ibb.co/02fC6Nk
+M067-1,M067,Ecuador,ECU,S8bb8de8cc73e,Kushki,Kushki,Primary,https://kushkipagos.com,https://www.expreso.ec/ciencia-y-tecnologia/kushki-plataforma-local-pagos-digitales-replica-6-paises-5504.html,https://ibb.co/KzzgCrB
+M067-2,M067,Ecuador,ECU,S1b57eeacfbd3,PICHINCHA BANCA,PICHINCHA BANCA,Alternative 1,https://pichincha.com,https://www.appbrain.com/app/pichincha-banca-m%C3%B3vil/com.yellowpepper.pichincha,https://ibb.co/z2TBscP
+M067-3,M067,Ecuador,ECU,Sab8a4f6bb84d,PayPal,PayPal,Alternative 2,https://paypal.com,https://www.cnet.com/reviews/paypal-review/,https://ibb.co/JxbrsQ1
+M068-1,M068,Puerto Rico,PRI,Sa186ae7a8096,ATH Móvil,ATH Móvil,Primary,https://athmovil.com,https://ath-movil.en.softonic.com/android,https://website not accessable
+M068-2,M068,Puerto Rico,PRI,Sab8a4f6bb84d,PayPal,PayPal,Alternative 1,https://paypal.com,https://www.cnet.com/reviews/paypal-review/,https://ibb.co/JxbrsQ1
+M068-3,M068,Puerto Rico,PRI,Sa1593ecc5a13,Venmo,Venmo,Alternative 2,https://venmo.com,https://www.getapp.com/website-ecommerce-software/a/venmo/reviews/,https://ibb.co/p4QBD9s
+M069-1,M069,Kenya,KEN,S53db2806be5a,M-Pesa,M-Pesa,Primary,https://mpesa.com,https://tech-ish.com/2021/02/01/new-m-pesa-app-really-good/,https://ibb.co/85ZHXB9
+M069-2,M069,Kenya,KEN,Sf2f6a0188995,Loop,Loop,Alternative 1,https://loop.co.ke,https://loop-discover-pay-grow.en.softonic.com/android,https://ibb.co/DVXhn9P
+M069-3,M069,Kenya,KEN,Sb1a34ffcbfc3,T-Kash,T-Kash,Alternative 2,https://telkom.co.ke/,https://apps.apple.com/ke/app/t-kash/id1569568640,https://ibb.co/KFnPxXW
+M070-1,M070,Angola,AGO,S94f173f4b39c,ZAP,ZAP,Primary,https://zap.com,https://www.menosfios.com/en/a-evolucao-do-zap-on-uma-nova-experiencia-para-o-utilizador-de-telecomunicacoes-em-angola/,https://ibb.co/7v9F0JL
+M070-2,M070,Angola,AGO,Sf46b7c2274d4,Easypay,Easypay,Alternative 1,https://easypay.com,https://www.trustpilot.com/review/easypay.pt,https://ibb.co/02fC6Nk
+M070-3,M070,Angola,AGO,Seffe340b87b3,GCash,GCash,Alternative 2,https://gcash.com,https://ca.trustpilot.com/review/www.gcash.com,https://ibb.co/Sy6q9yQ
+M071-1,M071,Guatemala,GTM,Seffe340b87b3,GCash,GCash,Primary,https://gcash.com,https://ca.trustpilot.com/review/www.gcash.com,https://ibb.co/S0S4qSG
+M071-2,M071,Guatemala,GTM,S9ab007d4bdcf,BANRURAL,BANRURAL,Alternative 1,https://banrural.com.gt,https://appshunter.io/ios/app/6502616200,https://ibb.co/ypKY07C
+M071-3,M071,Guatemala,GTM,S42fa0795c14e,MiDinero,MiDinero,Alternative 2,https://midinero.com.uy,https://es.trustpilot.com/review/www.midinero.com.uy,https://ibb.co/smfwBgb
+M072-1,M072,Oman,OMN,S9b425f30fe38,Oman Mobile Payment,Oman Mobile Payment,Primary,https://omantel.om,https://www.appbrain.com/app/omantel/com.omantel,https://ibb.co/3kCtZr7
+M072-2,M072,Oman,OMN,Sd274d9c0228d,PayCash,PayCash,Alternative 1,https://paycash.com,https://www.scam-detector.com/validator/paycash-app-review/,https://ibb.co/1bDBgdY
+M072-3,M072,Oman,OMN,S9fdb2b0725ab,Bank Muscat,Bank Muscat ,Alternative 2,https://bankmuscat.com,https://www.trustpilot.com/review/www.bankmuscat.com,https://ibb.co/6ZgDRJd
+M073-1,M073,Venezuela,VEN,S9656243ca723,Movilnet,Movilnet,Primary,https://movilnet.net,https://www.appbrain.com/app/movilnet/com.movilnet.movilnet_mobile_app,https://ibb.co/1XRhQCP
+M073-2,M073,Venezuela,VEN,S028fa62fc793,Banco de Venezuela,Banco de Venezuela,Alternative 1,https://bancodevenezuela.com,https://apps.apple.com/ve/app/bdvapp/id1629896484?l=en-GB,https://ibb.co/b7HZ0gn
+M073-3,M073,Venezuela,VEN,Sab8a4f6bb84d,PayPal,PayPal,Alternative 2,https://paypal.com,https://www.cnet.com/reviews/paypal-review/,https://ibb.co/JxbrsQ1
+M074-1,M074,Costa Rica,CRI,S5a33d5fbfbc5,bank BCR,bank BCR,Primary,https://bcr.ro,https://ca.trustpilot.com/review/www.bcr.ro,https://ibb.co/f4GzRtQ
+M074-2,M074,Costa Rica,CRI,S847ed24aba8f,BAC Credomatic,BAC Credomatic,Alternative 1,https://baccredomatic.com,https://apps.apple.com/in/app/banca-m%C3%B3vil-bac/id465508552,https://ibb.co/TbJy5st
+M074-3,M074,Costa Rica,CRI,Sab8a4f6bb84d,PayPal,PayPal,Alternative 2,https://paypal.com,https://www.cnet.com/reviews/paypal-review/,https://ibb.co/JxbrsQ1
+M075-1,M075,Luxembourg,LUX,S658e993fb9d6,Payconiq,Payconiq,Primary,https://payconiq.com,https://www.trustpilot.com/review/payconiq.com,https://ibb.co/qjhFN2Z
+M075-2,M075,Luxembourg,LUX,Sab8a4f6bb84d,PayPal,PayPal,Alternative 1,https://paypal.com,https://www.cnet.com/reviews/paypal-review/,https://ibb.co/JxbrsQ1
+M075-3,M075,Luxembourg,LUX,S4b4db0817515,TWINT,Twint,Alternative 2,https://twint.ch,https://www.trustpilot.com/review/www.twint.ch,https://ibb.co/J3kwbSY
+M076-1,M076,Croatia,HRV,S8409bece1699,AirCash,AirCash,Primary,https://aircash.eu,https://www.trustpilot.com/review/www.aircash.eu,https://ibb.co/dg5XgfR
+M076-2,M076,Croatia,HRV,Sab8a4f6bb84d,PayPal,PayPal,Alternative 1,https://paypal.com,https://www.cnet.com/reviews/paypal-review/,https://ibb.co/JxbrsQ1
+M076-3,M076,Croatia,HRV,Saaabb660e287,Vertex,Vertex,Alternative 2,https://vertexinc.com,https://www.trustpilot.com/review/vertexinc.com,https://ibb.co/tHnzMvn
+M077-1,M077,Panama,PAN,S2a2a83212153,Yappy,Yappy,Primary,https://www.yappy.com.pa,https://yappy.en.softonic.com/android,https://ibb.co/QYksyTm
+M077-2,M077,Panama,PAN,Sab8a4f6bb84d,PayPal,PayPal,Alternative 1,https://paypal.com,https://www.cnet.com/reviews/paypal-review/,https://ibb.co/JxbrsQ1
+M077-3,M077,Panama,PAN,S6091bb1c77f0,Banistmo,Banistmo,Alternative 2,https://banistmo.com,https://play.google.com/store/apps/details/Banistmo_APP_Personas?id=com.banistmo.transaccional.personas&hl=en_IN,https://ibb.co/bKG0xdn
+M078-1,M078,Ivory Coast,CIV,S30438e444cb9,Orange Money,Orange Money,Primary,https://orange.com,https://africanreview.com/finance/banking-a-finance/orange-money-fintech-is-proving-a-game-changer-in-africa,https://ibb.co/0MptPcg
+M078-2,M078,Ivory Coast,CIV,S57b68256e28f,MTN Mobile Money,MTN Mobile Money,Alternative 1,https://momo.mtn.com,https://pctechmag.com/2020/05/mtn-momo-app-review/,https://ibb.co/j6sQVjD
+M078-3,M078,Ivory Coast,CIV,S4f61b35afbac,MoMo,MoMo,Alternative 2,https://momo.vn,https://vir.com.vn/momo-dominates-vietnams-e-wallet-market-with-68-per-cent-share-102059.html,https://ibb.co/RBkdJwB
+M079-1,M079,Sri Lanka,LKA,Sd289ae1c3730,Dialog eZ Cash,Dialog eZ Cash,Primary,https://dialog.lk,https://www.trustpilot.com/review/dialog.lk,https://ibb.co/zHT57Nv
+M079-2,M079,Sri Lanka,LKA,S4dc53e64465b,Sampath e-Wallet,Sampath e-Wallet,Alternative 1,https://sampath.lk,https://sampath bank mobile app apk for android - download,https://ibb.co/wcGB4T8
+M079-3,M079,Sri Lanka,LKA,Sab8a4f6bb84d,PayPal,PayPal,Alternative 2,https://paypal.com,https://www.cnet.com/reviews/paypal-review/,https://ibb.co/JxbrsQ1
+M080-1,M080,Turkmenistan,TKM,S813979cbe3f6,Çapar Pay,Çapar Pay,Primary,https://post.tm/,https://capar-toelegler-we-biletler.en.softonic.com/android,https://ibb.co/ct3wx3W
+M080-2,M080,Turkmenistan,TKM,Sfe4df7a72733,Galkan töleg,Galkan töleg,Alternative 1,https://asuda.gov.tm,https://play.google.com/store/apps/details?id=mia.gov.tm&hl=en_IN,https://ibb.co/t8w9zDs
+M080-3,M080,Turkmenistan,TKM,S99aa3e6c42cc,e gov tm,e gov tm,Alternative 2,https://e.gov.tm,https://e-gov-tm.en.softonic.com/android,https://ibb.co/n3n50XC
+M081-1,M081,Lithuania,LTU,Sfd6f7a606c5b,Paysera,Paysera,Primary,https://paysera.com,https://www.trustpilot.com/review/www.paysera.com,https://ibb.co/StD1BCq
+M081-2,M081,Lithuania,LTU,Sdd53271a2e06,Revolut,Revolut,Alternative 1,https://revolut.com,https://www.trustpilot.com/review/www.revolut.com,https://ibb.co/w69Nf7j
+M081-3,M081,Lithuania,LTU,S0e8f6fd2e105,TransferGo,TransferGo,Alternative 2,https://transfergo.com,https://www.trustpilot.com/review/transfergo.com,https://ibb.co/8XwW6MZ
+M082-1,M082,Uruguay,URY,S1f12994d9b0c,dLocal,dLocal,Primary,https://dlocal.com,https://www.trustpilot.com/review/dlocal.com,https://ibb.co/qCfg49D
+M082-2,M082,Uruguay,URY,Sab8a4f6bb84d,PayPal,PayPal,Alternative 1,https://paypal.com,https://www.cnet.com/reviews/paypal-review/,https://ibb.co/JxbrsQ1
+M082-3,M082,Uruguay,URY,S0e3d54f3e7b6,Abitab,Abitab,Alternative 2,https://abitab.com.uy,https://www.crunchbase.com/organization/abitab,https://ibb.co/fM989nh
+M083-1,M083,Serbia,SRB,S851925fb67ea,Diners Club,Diners Club,Primary,https://dinersclub.com,https://www.trustpilot.com/review/dinersclub.com,https://ibb.co/sCyLM9p
+M083-2,M083,Serbia,SRB,Sab8a4f6bb84d,PayPal,PayPal,Alternative 1,https://paypal.com,https://www.cnet.com/reviews/paypal-review/,https://ibb.co/JxbrsQ1
+M083-3,M083,Serbia,SRB,Scfe1ae6e7f3a,Google Pay,Google Pay,Alternative 2,https://pay.google.com,https://www.pcmag.com/reviews/google-pay,https://ibb.co/bK79xby
+M084-1,M084,Tanzania,TZA,S53db2806be5a,M-Pesa,M-Pesa,Primary,https://mpesa.com,https://tech-ish.com/2021/02/01/new-m-pesa-app-really-good/,https://ibb.co/85ZHXB9
+M084-2,M084,Tanzania,TZA,S2cae73bdcb7c,Really Pesa,Really Pesa,Alternative 1,https://pesa.co,https://play.google.com/store/apps/details?id=com.mdqqkj.hakikaloan&hl=en-US,https://ibb.co/MnG2zBy
+M084-3,M084,Tanzania,TZA,S53db2806be5a,M-Pesa,M-Pesa,Alternative 2,https://vodacom.co.tz,https://play.google.com/store/apps/details?id=com.vodafone.mpesa.tanzania&hl=en,https://ibb.co/bKMjw9h
+M085-1,M085,Azerbaijan,AZE,Sfb8965ab4a52,AniPay,AniPay,Primary,https://anipay.az,https://appshunter.io/ios/app/1546614615,https://ibb.co/XYGcjmV
+M085-2,M085,Azerbaijan,AZE,S95ba4ed9329f,Click,Click,Alternative 1,https://click.uz,https://ca.trustpilot.com/review/click.uz,https://ibb.co/K0MHQLK
+M085-3,M085,Azerbaijan,AZE,Se2ad46d3f48e,AzeriPay,AzeriPay,Alternative 2,https://azericard.com,https://ratex42.com/listings/azericard/#respond,https://ibb.co/4wyqDQM
+M086-1,M086,Ghana,GHA,S57b68256e28f,MTN Mobile Money,MTN Mobile Money,Primary,https://momo.mtn.com,https://pctechmag.com/2020/05/mtn-momo-app-review/,https://ibb.co/XC141GY
+M086-2,M086,Ghana,GHA,S4e3de48b0f3a,Hubtel,Hubtel,Alternative 1,https://hubtel.com,https://play.google.com/store/apps/details?id=com.hubtel.hcb&hl=en-US,https://ibb.co/Lhj5d1Z
+M086-3,M086,Ghana,GHA,S6db696456e43,AirtelTigo,AirtelTigo,Alternative 2,https://airteltigo.com.gh,https://www.trustpilot.com/review/www.airteltigo.com.gh,https://ibb.co/2v36hhS
+M087-1,M087,Slovenia,SVN,S4a523f589732,Moneta,Moneta,Primary,https://moneta.ru,https://partnerkin.com/services/monetaru/reviews,https://ibb.co/HThCR22
+M087-2,M087,Slovenia,SVN,Sab8a4f6bb84d,PayPal,PayPal,Alternative 1,https://paypal.com,https://www.cnet.com/reviews/paypal-review/,https://ibb.co/JxbrsQ1
+M087-3,M087,Slovenia,SVN,S9518f42ad7fb,Google Wallet,Google wallet,Alternative 2,https://wallet.google/intl/,https://play.google.com/store/apps/details?id=com.google.android.apps.walletnfcrel&hl=en_IN,https://ibb.co/5rHX5jD
+M088-1,M088,Belarus,BLR,Sb58ff996311b,Oplata,Oplata,Primary,https://belkart.by,https://belkart-pay.en.softonic.com/android,https://ibb.co/mS3JH82
+M088-2,M088,Belarus,BLR,Sab8a4f6bb84d,PayPal,PayPal,Alternative 1,https://paypal.com,https://www.cnet.com/reviews/paypal-review/,https://ibb.co/JxbrsQ1
+M088-3,M088,Belarus,BLR,Scc9155d76e81,Yandex.Money,Yandex.Money,Alternative 2,https://bank.yandex.ru/pay,https://www.trustpilot.com/review/yandex.com,https://ibb.co/Fw3qJjF
+M089-1,M089,DR Congo,COD,S91c395c3c9e0,Airtel Money,Airtel Money,Primary,https://mpesa.com,https://tech-ish.com/2021/02/01/new-m-pesa-app-really-good/,https://ibb.co/85ZHXB9
+M089-2,M089,DR Congo,COD,S30438e444cb9,Orange Money,Orange Money,Alternative 1,https://orange.com,https://africanreview.com/finance/banking-a-finance/orange-money-fintech-is-proving-a-game-changer-in-africa,https://ibb.co/km2XBR6
+M089-3,M089,DR Congo,COD,S04dad77b6120,Velmie,Velmie,Alternative 2,https://velmie.com,https://www.trustpilot.com/review/velmie.com,https://ibb.co/nkHyRHv
+M090-1,M090,Myanmar,MMR,S819ffe68a604,Wave Money,Wave Money,Primary,https://wavemoney.com.mm,https://appshunter.io/ios/app/1439175549,https://ibb.co/QdbRSfP
+M090-2,M090,Myanmar,MMR,S0a364d6b3a0b,Ongo,Ongo,Alternative 1,https://ongo.com.mm,https://rocketreach.co/ongo-e-money-profile_b5b5f3c7f63d2715,https://ibb.co/K0MHQLK
+M090-3,M090,Myanmar,MMR,Sc92ee581fa42,KBZ Pay,KBZ Pay,Alternative 2,https://kbzpay.com,https://justuseapp.com/en/app/1398852297/kbzpay-customer/reviews,https://ibb.co/RNG3zfV
+M091-1,M091,Uganda,UGA,S57b68256e28f,MTN Mobile Money,MTN Mobile Money,Primary,https://momo.mtn.com,https://pctechmag.com/2020/05/mtn-momo-app-review/,https://ibb.co/XC141GY
+M091-2,M091,Uganda,UGA,Sb644e31f390d,Airtel Uganda,Airtel Uganda,Alternative 1,https://airtel.co.ug,https://tech-ish.com/2021/02/01/new-m-pesa-app-really-good/,https://ibb.co/vZxkyDR
+M091-3,M091,Uganda,UGA,Sab8a4f6bb84d,PayPal,PayPal,Alternative 2,https://paypal.com,https://www.cnet.com/reviews/paypal-review/,https://ibb.co/JxbrsQ1
+M092-1,M092,Macau,MAC,S81b0fd1b771e,Macau Pass,Macau Pass,Primary,https://macaupass.com,https://play.google.com/store/apps/details/MPay?id=com.macaupass.rechargeEasy&hl=en-US,https://ibb.co/syhwnmx
+M092-2,M092,Macau,MAC,Sd5b72847b212,Alipay,Alipay,Alternative 1,https://alipay.com,https://www.rapyd.net/blog/what-is-alipay/,https://ibb.co/ysHqJN4
+M092-3,M092,Macau,MAC,Sa39c6414ea1e,WeChat Pay,WeChat Pay,Alternative 2,https://pay.wechat.com,https://www.tripadvisor.in/ShowTopic-g294211-i642-k14971097-WeChat_Pay_enables_digital_payment_of_8_foreign_e_wallets-China.html,https://ibb.co/G5fM7vQ
+M093-1,M093,Cameroon,CMR,S30438e444cb9,Orange Money,Orange Money,Primary,https://orange.com,https://africanreview.com/finance/banking-a-finance/orange-money-fintech-is-proving-a-game-changer-in-africa,https://ibb.co/0MptPcg
+M093-2,M093,Cameroon,CMR,S57b68256e28f,MTN Mobile Money,MTN Mobile Money,Alternative 1,https://momo.mtn.com,https://pctechmag.com/2020/05/mtn-momo-app-review/,https://ibb.co/3WqkHHt
+M093-3,M093,Cameroon,CMR,Sab8a4f6bb84d,PayPal,PayPal,Alternative 2,https://paypal.com,https://www.cnet.com/reviews/paypal-review/,https://ibb.co/JxbrsQ1
+M094-1,M094,Jordan,JOR,Sfb1c3e32ff7c,Zain Cash,Zain Cash,Primary,https://zaincash.iq,https://www.appbrain.com/app/zaincash-%D8%B2%D9%8A%D9%86-%D9%83%D8%A7%D8%B4/mobi.foo.zaincash,https://ibb.co/vkKXkkD
+M094-2,M094,Jordan,JOR,S9bd75a3fb14a,Reflect,Reflect,Alternative 1,https://pal.reflectapp.com,https://play.google.com/store/apps/details?id=com.arabbank.neobank&hl=en-US,https://ibb.co/v4gDFyY
+M094-3,M094,Jordan,JOR,Sc7d464d29ff2,AnyPay,AnyPay,Alternative 2,https://anypay.co.th,https://www.scam-detector.com/validator/anypay-io-review/,https://ibb.co/rvjmcdJ
+M095-1,M095,Tunisia,TUN,S742a084076c8,E-dinar,E-dinar,Primary,https://play.google.com/store/apps/details?id=com.kaoun.flouci&hl=en,https://read 4 flouci reviews (2025) | flouci.com reviews,https://ibb.co/q1hPhBg
+M095-2,M095,Tunisia,TUN,Sab8a4f6bb84d,PayPal,PayPal,Alternative 1,https://paypal.com,https://www.cnet.com/reviews/paypal-review/,https://ibb.co/JxbrsQ1
+M095-3,M095,Tunisia,TUN,S4b4db0817515,TWINT,Twint,Alternative 2,https://twint.ch,https://www.trustpilot.com/review/www.twint.ch,https://ibb.co/py5DyNY
+M096-1,M096,Cambodia,KHM,S4c6134be7015,Pi Pay,Pi Pay,Primary,https://pipay.com,https://appshunter.io/ios/app/1234143591,https://ibb.co/vzLpkwg
+M096-2,M096,Cambodia,KHM,Sea0c0ee3ba62,ABA Mobile,ABA Mobile,Alternative 1,https://ababank.com,https://play.google.com/store/apps/details?id=com.paygo24.ibank&hl=en_IN,https://ibb.co/3W34yQW
+M096-3,M096,Cambodia,KHM,Sc72302fe2fa0,Wing Bank,Wing Bank,Alternative 2,https://wingbank.com.kh,https://appshunter.io/ios/app/1113286385,https://ibb.co/GQbMYht
+M097-1,M097,Bolivia,BOL,S8ce839d84089,Tigo Money,Tigo Money,Primary,https://tigomoney.com,https://tigo-money-bolivia.en.softonic.com/android,https://ibb.co/XY5CKXH
+M097-2,M097,Bolivia,BOL,S46c79b38cace,PagoEfectivo,PagoEfectivo,Alternative 1,https://pagoefectivo.pe,https://www.linkedin.com/pulse/pagoefectivo-transforming-cash-payments-peruvian-tony-cueva-bravo-ae8ke,https://ibb.co/jJZj29h
+M097-3,M097,Bolivia,BOL,Sab8a4f6bb84d,PayPal,PayPal,Alternative 2,https://paypal.com,https://www.cnet.com/reviews/paypal-review/,https://ibb.co/JxbrsQ1
+M098-1,M098,Bahrain,BHR,S49f1fb437cf1,Benefit Pay,Benefit Pay,Primary,https://benefit.bh,https://download.cnet.com/benefitpay/3000-2057_4-78509523.html,https://ibb.co/wBrjY3c
+M098-2,M098,Bahrain,BHR,Sab8a4f6bb84d,PayPal,PayPal,Alternative 1,https://paypal.com,https://www.cnet.com/reviews/paypal-review/,https://ibb.co/JxbrsQ1
+M098-3,M098,Bahrain,BHR,S464d23b54f26,Tap,Tap,Alternative 2,https://tap.company,https://www.trustpilot.com/review/tap.company,https://ibb.co/fqT1scD
+M099-1,M099,Latvia,LVA,Sab5445957d32,Mobilly,Mobilly,Primary,https://swedbank.com,https://appshunter.io/ios/app/344161302,https://ibb.co/n8tBqxR
+M099-2,M099,Latvia,LVA,Sab8a4f6bb84d,PayPal,PayPal,Alternative 1,https://paypal.com,https://www.cnet.com/reviews/paypal-review/,https://ibb.co/JxbrsQ1
+M099-3,M099,Latvia,LVA,S9518f42ad7fb,Google Wallet,Google wallet,Alternative 2,https://wallet.google/intl/,https://play.google.com/store/apps/details?id=com.google.android.apps.walletnfcrel&hl=en_IN,https://ibb.co/5rHX5jD
+M100-1,M100,Paraguay,PRY,S8ce839d84089,Tigo Money,Tigo Money,Primary,https://tigo money,https://tigo-money-bolivia.en.softonic.com/android,https://ibb.co/z2YF9B1
+M100-2,M100,Paraguay,PRY,Sfe7479645397,Personal Pay,Personal Pay,Alternative 1,https://personalpay.com,https://play.google.com/store/apps/details?id=ar.com.personalpay&hl=en_IN,https://ibb.co/0KZD4tk
+M100-3,M100,Paraguay,PRY,Sa725bda1f33e,Visa,Visa,Alternative 2,https://visa.com,https://www.trustpilot.com/review/visa.com,https://ibb.co/RSSHY9w
